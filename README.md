@@ -1,26 +1,24 @@
 <!--
 GitHub Profile README
 Profile: github.com/shahgem
-Recommended repo name: shahgem
-Recommended image folder: /assets
+Image folder: /assets
+
+Required image:
+assets/shahzad-banner.png
 -->
 
 <p align="center">
   <img 
-    src="./C:\Users\sahmed\Desktop\Shahzad.png" 
+    src="./assets/shahzad-banner.png" 
     width="100%" 
-    alt="Shahzad Ahmed professional banner showing finance analytics, business intelligence, forecasting, SQL, Python, Power BI, and automation expertise"
+    alt="Shahzad Ahmed professional banner showing finance analytics, business intelligence, SQL, Python, Power BI, forecasting, automation, and business decision support expertise"
   />
 </p>
 
-<h1 align="center">Shahzad Ahmed</h1>
-
-<h3 align="center">
-  Financial Analyst | Data Analytics | Business Intelligence | Forecasting | Automation
-</h3>
+<h2 align="center">Finance | Analytics | Business Intelligence | Automation</h2>
 
 <p align="center">
-  Turning numbers into strategy. Driving insights. Powering decisions. Creating value.
+  I build finance-focused analytics, forecasting, reporting, and decision-support solutions that help businesses act with clarity.
 </p>
 
 <p align="center">
@@ -41,37 +39,26 @@ Recommended image folder: /assets
 
 ---
 
-<table>
-<tr>
-<td width="32%" align="center">
-
-<img src="./assets/shahzad-profile.jpg" width="230" alt="Professional profile photo of Shahzad Ahmed"/>
-
-<br><br>
-
-<strong>Finance + Analytics + Technology</strong>
-
-<br>
-
-I help businesses transform financial and operational data into meaningful insights, better reporting, smarter forecasts, and practical decision systems.
-
-</td>
-
-<td width="68%">
-
 ## About Me
 
-I am a finance and analytics professional with experience across financial reporting, business analysis, process improvement, SQL reporting, dashboarding, automation, and predictive analytics.
+<table>
+<tr>
+<td width="60%">
 
-My work sits at the intersection of **finance, operations, data analytics, and decision intelligence**. I enjoy building tools that help teams understand performance, identify risk, improve planning, and make faster business decisions.
+I am a finance and analytics professional focused on transforming financial, operational, sales, purchase, and inventory data into meaningful business insight.
+
+My work combines **financial analysis, SQL reporting, Power BI dashboards, Python-based analytics, forecasting, automation, and decision intelligence**. I enjoy building practical tools that help leadership teams understand performance, identify risk, improve planning, and make faster decisions.
+
+</td>
+<td width="40%">
 
 ### Current Focus
 
-- Financial analysis, reporting, budgeting, and variance analysis
-- Sales, purchase, inventory, and margin analytics
-- SQL-based reporting and business performance models
-- Power BI dashboards and KPI storytelling
-- Python-based forecasting and machine learning
+- Financial reporting and variance analysis
+- Sales, purchase, and inventory analytics
+- SQL-based business reporting
+- Power BI dashboarding
+- Python forecasting and machine learning
 - Process automation and workflow optimization
 
 </td>
@@ -86,7 +73,7 @@ My work sits at the intersection of **finance, operations, data analytics, and d
 <tr>
 <td align="center" width="25%">
   <h3>15+</h3>
-  <p>Years of Finance & Business Experience</p>
+  <p>Years of finance and business experience</p>
 </td>
 <td align="center" width="25%">
   <h3>Finance + Data</h3>
@@ -98,7 +85,7 @@ My work sits at the intersection of **finance, operations, data analytics, and d
 </td>
 <td align="center" width="25%">
   <h3>Decision Systems</h3>
-  <p>Tools built for real business action</p>
+  <p>Tools built for practical business action</p>
 </td>
 </tr>
 </table>
@@ -219,7 +206,7 @@ My work sits at the intersection of **finance, operations, data analytics, and d
 
 ### PO Decision Engine
 
-A boardroom-grade purchase intelligence application for smarter inventory, vendor, cash-flow, and procurement decisions.
+A purchase intelligence and decision-support application designed for smarter inventory, vendor, cash-flow, and procurement decisions.
 
 **Business value:**
 
@@ -254,25 +241,209 @@ A time-series forecasting project focused on predicting cryptocurrency prices us
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### Customer Churn Prediction
+
+A predictive analytics project focused on identifying customer churn patterns and supporting customer retention strategy.
+
+**Business value:**
+
+- Customer behavior analysis
+- Churn risk identification
+- Retention planning support
+- Classification modeling
+
+<a href="https://github.com/shahgem/CIND-119">
+  <img src="https://img.shields.io/badge/Open%20Project-Customer%20Churn-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Open customer churn project"/>
+</a>
+
+</td>
+<td width="50%">
+
+### Blogs & Articles
+
+A collection of articles, notes, and learning material focused on analytics, SQL, reporting, business intelligence, and practical data projects.
+
+**Topics include:**
+
+- SQL performance
+- Analytics workflows
+- Business reporting
+- Finance-focused data analysis
+
+<a href="https://github.com/shahgem/Blogs">
+  <img src="https://img.shields.io/badge/Open%20Blogs%20Repository-0F766E?style=for-the-badge&logo=readme&logoColor=white" alt="Open blogs repository"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## Analytics Workflow
 
-```mermaid
-flowchart LR
-    A[Business Problem] --> B[Data Extraction]
-    B --> C[Data Cleaning]
-    C --> D[Analysis & Modeling]
-    D --> E[Dashboard & Reporting]
-    E --> F[Decision Support]
-    F --> G[Business Impact]
+<table>
+<tr>
+<td align="center" width="14%">
+  <h4>1</h4>
+  <strong>Business Problem</strong>
+  <br>
+  <sub>Define the decision that needs support</sub>
+</td>
+<td align="center" width="14%">
+  <h4>2</h4>
+  <strong>Data Extraction</strong>
+  <br>
+  <sub>Collect finance and operational data</sub>
+</td>
+<td align="center" width="14%">
+  <h4>3</h4>
+  <strong>Data Cleaning</strong>
+  <br>
+  <sub>Prepare accurate and reliable datasets</sub>
+</td>
+<td align="center" width="14%">
+  <h4>4</h4>
+  <strong>Analysis and Modeling</strong>
+  <br>
+  <sub>Find trends, risks, and opportunities</sub>
+</td>
+<td align="center" width="14%">
+  <h4>5</h4>
+  <strong>Dashboard and Reporting</strong>
+  <br>
+  <sub>Build clear KPI-based reporting</sub>
+</td>
+<td align="center" width="14%">
+  <h4>6</h4>
+  <strong>Decision Support</strong>
+  <br>
+  <sub>Convert insight into action</sub>
+</td>
+<td align="center" width="14%">
+  <h4>7</h4>
+  <strong>Business Impact</strong>
+  <br>
+  <sub>Improve performance and planning</sub>
+</td>
+</tr>
+</table>
 
-    style A fill:#002855,color:#ffffff
-    style B fill:#00509D,color:#ffffff
-    style C fill:#0077B5,color:#ffffff
-    style D fill:#0F766E,color:#ffffff
-    style E fill:#F2B705,color:#000000
-    style F fill:#1E3A8A,color:#ffffff
-    style G fill:#111827,color:#ffffff
+---
+
+## Business Areas I Support
+
+<table>
+<tr>
+<td align="center" width="20%">
+  <strong>Sales</strong>
+  <br>
+  <sub>Revenue, trends, customer performance</sub>
+</td>
+<td align="center" width="20%">
+  <strong>Supply Chain</strong>
+  <br>
+  <sub>Purchasing, inventory, vendor decisions</sub>
+</td>
+<td align="center" width="20%">
+  <strong>Finance</strong>
+  <br>
+  <sub>Reporting, margins, variance, cash flow</sub>
+</td>
+<td align="center" width="20%">
+  <strong>Operations</strong>
+  <br>
+  <sub>Process efficiency and automation</sub>
+</td>
+<td align="center" width="20%">
+  <strong>Leadership</strong>
+  <br>
+  <sub>Executive dashboards and decision support</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shahgem&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&title_color=0077B5&text_color=0B1220&icon_color=F2B705" 
+    width="48%" 
+    alt="Shahzad Ahmed GitHub statistics"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahgem&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=0B1220" 
+    width="48%" 
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=shahgem&theme=transparent&hide_border=true&ring=0077B5&fire=F2B705&currStreakLabel=0077B5" 
+    width="70%" 
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahgem&theme=transparent" 
+    width="95%" 
+    alt="GitHub contribution summary"
+  />
+</p>
+
+---
+
+## Professional Statement
+
+> From financial discipline to advanced analytics, I bridge the gap between data and decisions, helping organizations perform, grow, and lead.
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrshahzadahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://github.com/shahgem">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub profile"/>
+  </a>
+  <a href="https://github.com/shahgem?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+  </a>
+</p>
+
+<!-- 
+Optional email button.
+Only uncomment this section if you want your email public on GitHub.
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shahzad Ahmed"/>
+  </a>
+</p>
+-->
+
+---
+
+<p align="center">
+  <strong>I do not just analyze numbers. I help businesses grow with them.</strong>
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:002855,50:0077B5,100:0F766E&height=120&section=footer" 
+    width="100%" 
+    alt="Footer wave design"
+  />
+</p>
+```
