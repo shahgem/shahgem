@@ -1,3 +1,4 @@
+
 <!--
 GitHub Profile README
 Profile: github.com/shahgem
@@ -43,23 +44,38 @@ assets/shahzad-banner.png
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
+
+### Turning financial data into business direction
 
 I am a finance and analytics professional focused on transforming financial, operational, sales, purchase, and inventory data into meaningful business insight.
 
-My work combines **financial analysis, SQL reporting, Power BI dashboards, Python-based analytics, forecasting, automation, and decision intelligence**. I enjoy building practical tools that help leadership teams understand performance, identify risk, improve planning, and make faster decisions.
+My work combines **financial analysis, SQL reporting, Power BI dashboards, Python-based analytics, forecasting, automation, and decision intelligence**.
+
+I enjoy building practical tools that help leadership teams understand performance, identify risk, improve planning, and make faster decisions.
 
 </td>
-<td width="40%">
+<td width="45%" valign="top">
 
 ### Current Focus
 
-- Financial reporting and variance analysis
-- Sales, purchase, and inventory analytics
-- SQL-based business reporting
-- Power BI dashboarding
-- Python forecasting and machine learning
-- Process automation and workflow optimization
+<p>
+  <img src="https://img.shields.io/badge/Financial%20Reporting-002855?style=flat-square" alt="Financial reporting"/>
+  <img src="https://img.shields.io/badge/Variance%20Analysis-00509D?style=flat-square" alt="Variance analysis"/>
+  <img src="https://img.shields.io/badge/Inventory%20Analytics-0077B5?style=flat-square" alt="Inventory analytics"/>
+  <img src="https://img.shields.io/badge/SQL%20Reporting-003B57?style=flat-square" alt="SQL reporting"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Python%20Forecasting-0F766E?style=flat-square&logo=python&logoColor=white" alt="Python forecasting"/>
+  <img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Decision%20Support-111827?style=flat-square" alt="Decision support"/>
+</p>
+
+### Professional Edge
+
+- Finance-first analytical thinking
+- Business storytelling through dashboards
+- Practical automation for reporting workflows
+- Decision-focused analytics, not just charts
 
 </td>
 </tr>
@@ -96,7 +112,7 @@ My work combines **financial analysis, SQL reporting, Power BI dashboards, Pytho
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Financial Analysis & Reporting
 
@@ -106,7 +122,7 @@ My work combines **financial analysis, SQL reporting, Power BI dashboards, Pytho
 - Business performance monitoring
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Data-Driven Decision Making
 
@@ -119,7 +135,7 @@ My work combines **financial analysis, SQL reporting, Power BI dashboards, Pytho
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Process Optimization & Automation
 
@@ -129,7 +145,7 @@ My work combines **financial analysis, SQL reporting, Power BI dashboards, Pytho
 - Exception reporting and control checks
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Cross-Functional Leadership
 
@@ -168,27 +184,32 @@ My work combines **financial analysis, SQL reporting, Power BI dashboards, Pytho
 
 ## Featured Repositories
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
   <a href="https://github.com/shahgem/PO-Decision-Engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=PO-Decision-Engine&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="PO Decision Engine repository" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=PO-Decision-Engine&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="PO Decision Engine repository" width="100%"/>
   </a>
+</td>
+<td width="50%" valign="top">
   <a href="https://github.com/shahgem/CIND-820">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-820&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Cryptocurrency price prediction project" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-820&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Cryptocurrency price prediction project" width="100%"/>
   </a>
-</div>
-
-<br>
-
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <a href="https://github.com/shahgem/CIND-119">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-119&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Customer churn prediction project" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-119&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Customer churn prediction project" width="100%"/>
   </a>
+</td>
+<td width="50%" valign="top">
   <a href="https://github.com/shahgem/Blogs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=Blogs&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Blogs and articles repository" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=Blogs&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Blogs and articles repository" width="100%"/>
   </a>
-</div>
-
-<br>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/shahgem?tab=repositories">
@@ -202,7 +223,7 @@ My work combines **financial analysis, SQL reporting, Power BI dashboards, Pytho
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### PO Decision Engine
 
@@ -221,7 +242,7 @@ A purchase intelligence and decision-support application designed for smarter in
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Cryptocurrency Price Forecasting
 
@@ -243,7 +264,7 @@ A time-series forecasting project focused on predicting cryptocurrency prices us
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Customer Churn Prediction
 
@@ -261,7 +282,7 @@ A predictive analytics project focused on identifying customer churn patterns an
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Blogs & Articles
 
@@ -288,47 +309,54 @@ A collection of articles, notes, and learning material focused on analytics, SQL
 
 <table>
 <tr>
-<td align="center" width="14%">
-  <h4>1</h4>
-  <strong>Business Problem</strong>
+<td align="center" width="14%" valign="top">
+  <img src="https://img.shields.io/badge/1-Business%20Problem-002855?style=for-the-badge" alt="Step 1 Business Problem"/>
+  <br><br>
+  <strong>Define the decision</strong>
   <br>
-  <sub>Define the decision that needs support</sub>
+  <sub>Clarify the business question, KPI, risk, or opportunity.</sub>
 </td>
-<td align="center" width="14%">
-  <h4>2</h4>
-  <strong>Data Extraction</strong>
+<td align="center" width="14%" valign="top">
+  <img src="https://img.shields.io/badge/2-Data%20Extraction-00509D?style=for-the-badge" alt="Step 2 Data Extraction"/>
+  <br><br>
+  <strong>Collect the data</strong>
   <br>
-  <sub>Collect finance and operational data</sub>
+  <sub>Bring together finance, sales, purchase, inventory, and operational data.</sub>
 </td>
-<td align="center" width="14%">
-  <h4>3</h4>
-  <strong>Data Cleaning</strong>
+<td align="center" width="14%" valign="top">
+  <img src="https://img.shields.io/badge/3-Data%20Cleaning-0077B5?style=for-the-badge" alt="Step 3 Data Cleaning"/>
+  <br><br>
+  <strong>Prepare the dataset</strong>
   <br>
-  <sub>Prepare accurate and reliable datasets</sub>
+  <sub>Validate, clean, structure, and reconcile data for analysis.</sub>
 </td>
-<td align="center" width="14%">
-  <h4>4</h4>
-  <strong>Analysis and Modeling</strong>
+<td align="center" width="14%" valign="top">
+  <img src="https://img.shields.io/badge/4-Modeling-0F766E?style=for-the-badge" alt="Step 4 Modeling"/>
+  <br><br>
+  <strong>Analyze patterns</strong>
   <br>
-  <sub>Find trends, risks, and opportunities</sub>
+  <sub>Identify trends, outliers, drivers, forecasts, and performance gaps.</sub>
 </td>
-<td align="center" width="14%">
-  <h4>5</h4>
-  <strong>Dashboard and Reporting</strong>
+<td align="center" width="14%" valign="top">
+  <img src="https://img.shields.io/badge/5-Dashboarding-F2C811?style=for-the-badge" alt="Step 5 Dashboarding"/>
+  <br><br>
+  <strong>Visualize insight</strong>
   <br>
-  <sub>Build clear KPI-based reporting</sub>
+  <sub>Build dashboards, KPI views, and executive reporting.</sub>
 </td>
-<td align="center" width="14%">
-  <h4>6</h4>
-  <strong>Decision Support</strong>
+<td align="center" width="14%" valign="top">
+  <img src="https://img.shields.io/badge/6-Decision%20Support-1E3A8A?style=for-the-badge" alt="Step 6 Decision Support"/>
+  <br><br>
+  <strong>Recommend action</strong>
   <br>
-  <sub>Convert insight into action</sub>
+  <sub>Translate analytics into practical business decisions.</sub>
 </td>
-<td align="center" width="14%">
-  <h4>7</h4>
-  <strong>Business Impact</strong>
+<td align="center" width="14%" valign="top">
+  <img src="https://img.shields.io/badge/7-Business%20Impact-111827?style=for-the-badge" alt="Step 7 Business Impact"/>
+  <br><br>
+  <strong>Measure results</strong>
   <br>
-  <sub>Improve performance and planning</sub>
+  <sub>Improve planning, efficiency, profitability, and control.</sub>
 </td>
 </tr>
 </table>
@@ -337,35 +365,13 @@ A collection of articles, notes, and learning material focused on analytics, SQL
 
 ## Business Areas I Support
 
-<table>
-<tr>
-<td align="center" width="20%">
-  <strong>Sales</strong>
-  <br>
-  <sub>Revenue, trends, customer performance</sub>
-</td>
-<td align="center" width="20%">
-  <strong>Supply Chain</strong>
-  <br>
-  <sub>Purchasing, inventory, vendor decisions</sub>
-</td>
-<td align="center" width="20%">
-  <strong>Finance</strong>
-  <br>
-  <sub>Reporting, margins, variance, cash flow</sub>
-</td>
-<td align="center" width="20%">
-  <strong>Operations</strong>
-  <br>
-  <sub>Process efficiency and automation</sub>
-</td>
-<td align="center" width="20%">
-  <strong>Leadership</strong>
-  <br>
-  <sub>Executive dashboards and decision support</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sales-Revenue%20%7C%20Trends%20%7C%20Customers-0077B5?style=for-the-badge" alt="Sales analytics"/>
+  <img src="https://img.shields.io/badge/Supply%20Chain-Purchasing%20%7C%20Inventory%20%7C%20Vendors-0F766E?style=for-the-badge" alt="Supply chain analytics"/>
+  <img src="https://img.shields.io/badge/Finance-Margins%20%7C%20Variance%20%7C%20Cash%20Flow-002855?style=for-the-badge" alt="Finance analytics"/>
+  <img src="https://img.shields.io/badge/Operations-Efficiency%20%7C%20Automation-7C3AED?style=for-the-badge" alt="Operations analytics"/>
+  <img src="https://img.shields.io/badge/Leadership-Dashboards%20%7C%20Decision%20Support-111827?style=for-the-badge" alt="Leadership reporting"/>
+</p>
 
 ---
 
@@ -373,29 +379,26 @@ A collection of articles, notes, and learning material focused on analytics, SQL
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=shahgem&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&title_color=0077B5&text_color=0B1220&icon_color=F2B705" 
-    width="48%" 
-    alt="Shahzad Ahmed GitHub statistics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahgem&theme=transparent" 
+    width="32%" 
+    alt="Repositories per language"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahgem&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=0B1220" 
-    width="48%" 
-    alt="Most used programming languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahgem&theme=transparent" 
+    width="32%" 
+    alt="Most committed languages"
   />
-</p>
-
-<p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=shahgem&theme=transparent&hide_border=true&ring=0077B5&fire=F2B705&currStreakLabel=0077B5" 
-    width="70%" 
-    alt="GitHub contribution streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahgem&theme=transparent&utcOffset=-4" 
+    width="32%" 
+    alt="Productive time by commit activity"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahgem&theme=transparent" 
-    width="95%" 
+    width="98%" 
     alt="GitHub contribution summary"
   />
 </p>
