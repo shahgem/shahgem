@@ -340,75 +340,36 @@ A collection of articles, notes, and learning material focused on analytics, SQL
 </tr>
 </table>
 
-## Analytics Workflow
+## 🔄 The Data-to-Decision Pipeline
+
+<p align="center">
+  <img src="https://img.shields.io/badge/1_DEFINE-002855?style=for-the-badge" alt="Define"/> ➔
+  <img src="https://img.shields.io/badge/2_COLLECT-00509D?style=for-the-badge" alt="Collect"/> ➔
+  <img src="https://img.shields.io/badge/3_PREPARE-0077B5?style=for-the-badge" alt="Prepare"/> ➔
+  <img src="https://img.shields.io/badge/4_ANALYZE-0F766E?style=for-the-badge" alt="Analyze"/> ➔
+  <img src="https://img.shields.io/badge/5_VISUALIZE-F2C811?style=for-the-badge&logoColor=black" alt="Visualize"/> ➔
+  <img src="https://img.shields.io/badge/6_RECOMMEND-1E3A8A?style=for-the-badge" alt="Recommend"/> ➔
+  <img src="https://img.shields.io/badge/7_DELIVER-111827?style=for-the-badge" alt="Deliver"/>
+</p>
 
 <table>
-<tr>
-<td width="25%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/STEP%201-BUSINESS%20PROBLEM-3B3B3B?style=for-the-badge" alt="Business Problem"/>
-
-### 🎯 Define  
-Clarify the business question, KPI, risk, or opportunity.
-
-</td>
-<td width="25%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/STEP%202-DATA%20EXTRACTION-00509D?style=for-the-badge" alt="Data Extraction"/>
-
-### 📥 Collect  
-Gather finance, sales, purchase, inventory, and operational data.
-
-</td>
-<td width="25%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/STEP%203-DATA%20CLEANING-0077B5?style=for-the-badge" alt="Data Cleaning"/>
-
-### 🧹 Prepare  
-Clean, structure, validate, and reconcile the dataset.
-
-</td>
-<td width="25%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/STEP%204-MODELING-0F766E?style=for-the-badge" alt="Modeling"/>
-
-### 📊 Analyze  
-Find trends, drivers, risks, and forecasting opportunities.
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center">
+      <b>Data Engineering</b><br>
+      <sub>Extraction, validation, and reconciliation of finance and operations data.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>Business Intelligence</b><br>
+      <sub>Finding drivers and risks; creating executive KPI dashboards.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>Strategic Execution</b><br>
+      <sub>Converting complex analytics into tangible growth and efficiency.</sub>
+    </td>
+  </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-<td width="33.33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/STEP%205-DASHBOARDING-F2C811?style=for-the-badge" alt="Dashboarding"/>
-
-### 📈 Visualize  
-Create KPI dashboards and executive-ready reporting.
-
-</td>
-<td width="33.33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/STEP%206-DECISION%20SUPPORT-1E3A8A?style=for-the-badge" alt="Decision Support"/>
-
-### 🧠 Recommend  
-Convert analytics into action and business decisions.
-
-</td>
-<td width="33.33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/STEP%207-BUSINESS%20IMPACT-111827?style=for-the-badge" alt="Business Impact"/>
-
-### 🚀 Deliver  
-Improve performance, control, efficiency, and growth.
-
-</td>
-</tr>
-</table>
+---
 
 ## Business Areas I Support
 
