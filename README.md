@@ -313,63 +313,77 @@ A collection of articles, notes, and learning material focused on analytics, SQL
 
 ---
 
+---
+
 ## Analytics Workflow
 
 <table>
 <tr>
-<td align="center" width="14%" valign="top">
-  <img src="https://img.shields.io/badge/1-Business%20Problem-002855?style=for-the-badge" alt="Step 1 Business Problem"/>
-  <br><br>
-  <strong>Define the decision</strong>
-  <br>
-  <sub>Clarify the business question, KPI, risk, or opportunity.</sub>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/STEP%201-BUSINESS%20PROBLEM-3B3B3B?style=for-the-badge" alt="Business Problem"/>
+
+### 🎯 Define  
+Clarify the business question, KPI, risk, or opportunity.
+
 </td>
-<td align="center" width="14%" valign="top">
-  <img src="https://img.shields.io/badge/2-Data%20Extraction-00509D?style=for-the-badge" alt="Step 2 Data Extraction"/>
-  <br><br>
-  <strong>Collect the data</strong>
-  <br>
-  <sub>Bring together finance, sales, purchase, inventory, and operational data.</sub>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/STEP%202-DATA%20EXTRACTION-00509D?style=for-the-badge" alt="Data Extraction"/>
+
+### 📥 Collect  
+Gather finance, sales, purchase, inventory, and operational data.
+
 </td>
-<td align="center" width="14%" valign="top">
-  <img src="https://img.shields.io/badge/3-Data%20Cleaning-0077B5?style=for-the-badge" alt="Step 3 Data Cleaning"/>
-  <br><br>
-  <strong>Prepare the dataset</strong>
-  <br>
-  <sub>Validate, clean, structure, and reconcile data for analysis.</sub>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/STEP%203-DATA%20CLEANING-0077B5?style=for-the-badge" alt="Data Cleaning"/>
+
+### 🧹 Prepare  
+Clean, structure, validate, and reconcile the dataset.
+
 </td>
-<td align="center" width="14%" valign="top">
-  <img src="https://img.shields.io/badge/4-Modeling-0F766E?style=for-the-badge" alt="Step 4 Modeling"/>
-  <br><br>
-  <strong>Analyze patterns</strong>
-  <br>
-  <sub>Identify trends, outliers, drivers, forecasts, and performance gaps.</sub>
-</td>
-<td align="center" width="14%" valign="top">
-  <img src="https://img.shields.io/badge/5-Dashboarding-F2C811?style=for-the-badge" alt="Step 5 Dashboarding"/>
-  <br><br>
-  <strong>Visualize insight</strong>
-  <br>
-  <sub>Build dashboards, KPI views, and executive reporting.</sub>
-</td>
-<td align="center" width="14%" valign="top">
-  <img src="https://img.shields.io/badge/6-Decision%20Support-1E3A8A?style=for-the-badge" alt="Step 6 Decision Support"/>
-  <br><br>
-  <strong>Recommend action</strong>
-  <br>
-  <sub>Translate analytics into practical business decisions.</sub>
-</td>
-<td align="center" width="14%" valign="top">
-  <img src="https://img.shields.io/badge/7-Business%20Impact-111827?style=for-the-badge" alt="Step 7 Business Impact"/>
-  <br><br>
-  <strong>Measure results</strong>
-  <br>
-  <sub>Improve planning, efficiency, profitability, and control.</sub>
+<td width="25%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/STEP%204-MODELING-0F766E?style=for-the-badge" alt="Modeling"/>
+
+### 📊 Analyze  
+Find trends, drivers, risks, and forecasting opportunities.
+
 </td>
 </tr>
 </table>
 
----
+<br>
+
+<table>
+<tr>
+<td width="33.33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/STEP%205-DASHBOARDING-F2C811?style=for-the-badge" alt="Dashboarding"/>
+
+### 📈 Visualize  
+Create KPI dashboards and executive-ready reporting.
+
+</td>
+<td width="33.33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/STEP%206-DECISION%20SUPPORT-1E3A8A?style=for-the-badge" alt="Decision Support"/>
+
+### 🧠 Recommend  
+Convert analytics into action and business decisions.
+
+</td>
+<td width="33.33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/STEP%207-BUSINESS%20IMPACT-111827?style=for-the-badge" alt="Business Impact"/>
+
+### 🚀 Deliver  
+Improve performance, control, efficiency, and growth.
+
+</td>
+</tr>
+</table>
 
 ## Business Areas I Support
 
