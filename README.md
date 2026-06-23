@@ -21,7 +21,7 @@ assets/shahzad-banner.png
      ANIMATED ROLE TYPING
 ════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1100&color=0077B5&center=true&vCenter=true&width=660&lines=Finance+%26+Analytics+Professional;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Business+Intelligence+Architect;Forecasting+%26+Decision+Support+Specialist;Turning+Financial+Data+into+Business+Direction" alt="Animated role titles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=0077B5&center=true&vCenter=true&width=950&lines=Finance+%26+Data+Analytics+Professional;Financial+Analysis+%7C+Business+Intelligence+%7C+Automation;SQL+%7C+Python+%7C+R+%7C+Power+BI+%7C+Excel;Forecasting+%7C+Predictive+Analytics+%7C+Decision+Support;Sales+%7C+Purchase+%7C+Inventory+%7C+Margin+Analytics;KPI+Dashboards+%7C+Management+Reporting+%7C+Executive+Insights;Turning+Numbers+into+Strategy;Turning+Insight+into+Action;Turning+Data+into+Business+Value" alt="Animated finance and analytics role titles"/>
 </p>
 
 <h2 align="center">Finance | Analytics | Business Intelligence | Automation</h2>
