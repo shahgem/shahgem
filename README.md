@@ -212,37 +212,39 @@ I enjoy building practical tools that help leadership teams understand performan
 ## Featured Repositories
 
 <table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/shahgem/PO-Decision-Engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=PO-Decision-Engine&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="PO Decision Engine repository" width="100%"/>
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/shahgem/CIND-820">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-820&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Cryptocurrency price prediction project" width="100%"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/shahgem/CIND-119">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-119&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Customer churn prediction project" width="100%"/>
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/shahgem/Blogs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=Blogs&theme=transparent&show_icons=true&border_color=0077B5&title_color=0077B5&text_color=0B1220&icon_color=F2B705" alt="Blogs and articles repository" width="100%"/>
-  </a>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛍️ PURCHASE INTELLIGENCE</b><br>
+      <a href="https://github.com/shahgem/PO-Decision-Engine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=PO-Decision-Engine&theme=transparent&show_icons=true&border_color=0077B5&title_color=002855&text_color=333333&icon_color=F2C811" alt="PO Decision Engine" width="100%"/>
+      </a>
+      <sub><b>Value:</b> Vendor review, inventory control, and executive-ready purchase intelligence.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>📉 MARKET FORECASTING</b><br>
+      <a href="https://github.com/shahgem/CIND-820">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-820&theme=transparent&show_icons=true&border_color=0077B5&title_color=002855&text_color=333333&icon_color=F2C811" alt="Crypto Price Forecasting" width="100%"/>
+      </a>
+      <sub><b>Value:</b> Time-series machine learning (ARIMA, Prophet, LSTM) for financial modeling.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>👥 PREDICTIVE ANALYTICS</b><br>
+      <a href="https://github.com/shahgem/CIND-119">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-119&theme=transparent&show_icons=true&border_color=0077B5&title_color=002855&text_color=333333&icon_color=F2C811" alt="Customer Churn" width="100%"/>
+      </a>
+      <sub><b>Value:</b> Customer behavior analysis, risk identification, and retention strategy.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>📚 RESEARCH & PUBLICATIONS</b><br>
+      <a href="https://github.com/shahgem/Blogs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=Blogs&theme=transparent&show_icons=true&border_color=0077B5&title_color=002855&text_color=333333&icon_color=F2C811" alt="Blogs and Articles" width="100%"/>
+      </a>
+      <sub><b>Value:</b> Documentation of SQL performance, reporting, and analytics workflows.</sub>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/shahgem?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub repositories"/>
-  </a>
-</p>
 
 ---
 
