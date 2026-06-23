@@ -93,23 +93,35 @@ I enjoy building practical tools that help leadership teams understand performan
 
 ## Executive Snapshot
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=0077B5&center=true&vCenter=true&width=950&lines=15%2B+Years+of+Finance+%26+Business+Experience;Finance+%2B+Data+%2B+Technology;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Decision+Systems+Built+for+Business+Impact" alt="Animated executive snapshot"/>
+</p>
+
 <table>
 <tr>
-<td align="center" width="25%">
-  <h3>15+</h3>
-  <p>Years of finance and business experience</p>
+<td align="center" width="25%" bgcolor="#F8FBFF">
+  <h2>15+</h2>
+  <img src="https://img.shields.io/badge/Experience-Finance%20%26%20Business-002855?style=for-the-badge" alt="Finance and business experience"/>
+  <br><br>
+  <sub>Years of finance, accounting, analytics, reporting, and business support experience</sub>
 </td>
-<td align="center" width="25%">
-  <h3>Finance + Data</h3>
-  <p>Business insight backed by analytics</p>
+<td align="center" width="25%" bgcolor="#EAF4FF">
+  <h2>Finance + Data</h2>
+  <img src="https://img.shields.io/badge/Insight-Analytics%20Driven-0077B5?style=for-the-badge" alt="Analytics driven insight"/>
+  <br><br>
+  <sub>Combining financial discipline with data analytics and business intelligence</sub>
 </td>
-<td align="center" width="25%">
-  <h3>SQL | Python | BI</h3>
-  <p>Reporting, modeling, and automation</p>
+<td align="center" width="25%" bgcolor="#F8FBFF">
+  <h2>SQL | Python | BI</h2>
+  <img src="https://img.shields.io/badge/Tools-Reporting%20%26%20Modeling-0F766E?style=for-the-badge" alt="Reporting and modeling tools"/>
+  <br><br>
+  <sub>Building reporting, forecasting, automation, and dashboarding solutions</sub>
 </td>
-<td align="center" width="25%">
-  <h3>Decision Systems</h3>
-  <p>Tools built for practical business action</p>
+<td align="center" width="25%" bgcolor="#EAF4FF">
+  <h2>Decision Systems</h2>
+  <img src="https://img.shields.io/badge/Impact-Business%20Action-111827?style=for-the-badge" alt="Business action impact"/>
+  <br><br>
+  <sub>Turning raw data into practical tools for leadership and operational decisions</sub>
 </td>
 </tr>
 </table>
@@ -120,9 +132,11 @@ I enjoy building practical tools that help leadership teams understand performan
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#FFFFFF">
 
-### Financial Analysis & Reporting
+<img src="https://img.shields.io/badge/Financial%20Analysis%20%26%20Reporting-002855?style=for-the-badge" alt="Financial Analysis and Reporting"/>
+
+### Finance Performance Control
 
 - Forecasting, budgeting, and variance analysis
 - Income statement and profitability analysis
@@ -130,9 +144,11 @@ I enjoy building practical tools that help leadership teams understand performan
 - Business performance monitoring
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#EAF4FF">
 
-### Data-Driven Decision Making
+<img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-0077B5?style=for-the-badge" alt="Data Driven Decision Making"/>
+
+### Analytics for Better Decisions
 
 - SQL reporting and data extraction
 - Python analytics and forecasting
@@ -143,9 +159,11 @@ I enjoy building practical tools that help leadership teams understand performan
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#EAF4FF">
 
-### Process Optimization & Automation
+<img src="https://img.shields.io/badge/Process%20Optimization%20%26%20Automation-0F766E?style=for-the-badge" alt="Process Optimization and Automation"/>
+
+### Workflow Improvement
 
 - Reporting automation
 - Operational workflow improvement
@@ -153,9 +171,11 @@ I enjoy building practical tools that help leadership teams understand performan
 - Exception reporting and control checks
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#FFFFFF">
 
-### Cross-Functional Leadership
+<img src="https://img.shields.io/badge/Cross--Functional%20Leadership-111827?style=for-the-badge" alt="Cross Functional Leadership"/>
+
+### Business Partnership
 
 - Collaboration with sales, supply chain, IT, production, and leadership teams
 - Translating complex financial data into clear business actions
@@ -165,7 +185,6 @@ I enjoy building practical tools that help leadership teams understand performan
 </tr>
 </table>
 
----
 
 ## Tools & Technologies
 
@@ -231,7 +250,9 @@ I enjoy building practical tools that help leadership teams understand performan
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#FFFFFF">
+
+<img src="https://img.shields.io/badge/PO%20Decision%20Engine-Purchase%20Intelligence-002855?style=for-the-badge&logo=github&logoColor=white" alt="PO Decision Engine"/>
 
 ### PO Decision Engine
 
@@ -250,7 +271,9 @@ A purchase intelligence and decision-support application designed for smarter in
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#EAF4FF">
+
+<img src="https://img.shields.io/badge/Crypto%20Forecasting-Time%20Series%20ML-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Cryptocurrency Price Forecasting"/>
 
 ### Cryptocurrency Price Forecasting
 
@@ -272,7 +295,9 @@ A time-series forecasting project focused on predicting cryptocurrency prices us
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#EAF4FF">
+
+<img src="https://img.shields.io/badge/Customer%20Churn-Predictive%20Analytics-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Customer Churn Prediction"/>
 
 ### Customer Churn Prediction
 
@@ -290,7 +315,9 @@ A predictive analytics project focused on identifying customer churn patterns an
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#FFFFFF">
+
+<img src="https://img.shields.io/badge/Blogs%20%26%20Articles-Analytics%20Writing-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Blogs and Articles"/>
 
 ### Blogs & Articles
 
@@ -310,10 +337,6 @@ A collection of articles, notes, and learning material focused on analytics, SQL
 </td>
 </tr>
 </table>
-
----
-
----
 
 ## Analytics Workflow
 
