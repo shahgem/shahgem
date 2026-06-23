@@ -16,6 +16,14 @@ assets/shahzad-banner.png
   />
 </p>
 
+
+<!-- ════════════════════════════════════════════
+     ANIMATED ROLE TYPING
+════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1100&color=0077B5&center=true&vCenter=true&width=660&lines=Finance+%26+Analytics+Professional;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Business+Intelligence+Architect;Forecasting+%26+Decision+Support+Specialist;Turning+Financial+Data+into+Business+Direction" alt="Animated role titles"/>
+</p>
+
 <h2 align="center">Finance | Analytics | Business Intelligence | Automation</h2>
 
 <p align="center">
