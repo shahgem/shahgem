@@ -1,4 +1,3 @@
-
 <!--
 GitHub Profile README
 Profile: github.com/shahgem
@@ -16,26 +15,25 @@ assets/shahzad-banner.png
   />
 </p>
 
-
 <!-- ════════════════════════════════════════════
      ANIMATED ROLE TYPING
 ════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=0077B5&center=true&vCenter=true&width=950&lines=Finance+%26+Data+Analytics+Professional;Financial+Analysis+%7C+Business+Intelligence+%7C+Automation;SQL+%7C+Python+%7C+R+%7C+Power+BI+%7C+Excel;Forecasting+%7C+Predictive+Analytics+%7C+Decision+Support;Sales+%7C+Purchase+%7C+Inventory+%7C+Margin+Analytics;KPI+Dashboards+%7C+Management+Reporting+%7C+Executive+Insights;Turning+Numbers+into+Strategy;Turning+Insight+into+Action;Turning+Data+into+Business+Value" alt="Animated finance and analytics role titles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=00509D&center=true&vCenter=true&width=950&lines=Finance+%26+Data+Analytics+Professional;Financial+Analysis+%7C+Business+Intelligence+%7C+Automation;SQL+%7C+Python+%7C+R+%7C+Power+BI+%7C+Excel;Forecasting+%7C+Predictive+Analytics+%7C+Decision+Support;Sales+%7C+Purchase+%7C+Inventory+%7C+Margin+Analytics;KPI+Dashboards+%7C+Management+Reporting+%7C+Executive+Insights;Turning+Numbers+into+Strategy;Turning+Insight+into+Action;Turning+Data+into+Business+Value" alt="Animated finance and analytics role titles"/>
 </p>
 
-<h2 align="center">Finance | Analytics | Business Intelligence | Automation</h2>
+<h2 align="center" style="color:#002855;">Finance | Analytics | Business Intelligence | Automation</h2>
 
-<p align="center">
+<p align="center" style="color:#111827;">
   I build finance-focused analytics, forecasting, reporting, and decision-support solutions that help businesses act with clarity.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrshahzadahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahzad%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shahzad%20Ahmed-00509D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
   <a href="https://github.com/shahgem?tab=repositories">
-    <img src="https://img.shields.io/badge/All%20Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="All GitHub repositories"/>
+    <img src="https://img.shields.io/badge/All%20Repositories-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="All GitHub repositories"/>
   </a>
   <a href="https://github.com/shahgem/Blogs">
     <img src="https://img.shields.io/badge/Blogs%20%26%20Articles-Portfolio-0F766E?style=for-the-badge&logo=readme&logoColor=white" alt="Blogs and articles repository"/>
@@ -43,12 +41,12 @@ assets/shahzad-banner.png
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahgem&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="GitHub profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shahgem&label=Profile%20Views&color=00509D&style=for-the-badge" alt="GitHub profile views"/>
 </p>
 
 ---
 
-## About Me
+## 🧭 About Me
 
 <table>
 <tr>
@@ -70,7 +68,7 @@ I enjoy building practical tools that help leadership teams understand performan
 <p>
   <img src="https://img.shields.io/badge/Financial%20Reporting-002855?style=flat-square" alt="Financial reporting"/>
   <img src="https://img.shields.io/badge/Variance%20Analysis-00509D?style=flat-square" alt="Variance analysis"/>
-  <img src="https://img.shields.io/badge/Inventory%20Analytics-0077B5?style=flat-square" alt="Inventory analytics"/>
+  <img src="https://img.shields.io/badge/Inventory%20Analytics-0F766E?style=flat-square" alt="Inventory analytics"/>
   <img src="https://img.shields.io/badge/SQL%20Reporting-003B57?style=flat-square" alt="SQL reporting"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Python%20Forecasting-0F766E?style=flat-square&logo=python&logoColor=white" alt="Python forecasting"/>
@@ -94,7 +92,7 @@ I enjoy building practical tools that help leadership teams understand performan
 ## Executive Snapshot
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=0077B5&center=true&vCenter=true&width=950&lines=15%2B+Years+of+Finance+%26+Business+Experience;Finance+%2B+Data+%2B+Technology;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Decision+Systems+Built+for+Business+Impact" alt="Animated executive snapshot"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=700&color=00509D&center=true&vCenter=true&width=950&lines=15%2B+Years+of+Finance+%26+Business+Experience;Finance+%2B+Data+%2B+Technology;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Decision+Systems+Built+for+Business+Impact" alt="Animated executive snapshot"/>
 </p>
 
 <table>
@@ -107,7 +105,7 @@ I enjoy building practical tools that help leadership teams understand performan
 </td>
 <td align="center" width="25%" bgcolor="#EAF4FF">
   <h2>Finance + Data</h2>
-  <img src="https://img.shields.io/badge/Insight-Analytics%20Driven-0077B5?style=for-the-badge" alt="Analytics driven insight"/>
+  <img src="https://img.shields.io/badge/Insight-Analytics%20Driven-00509D?style=for-the-badge" alt="Analytics driven insight"/>
   <br><br>
   <sub>Combining financial discipline with data analytics and business intelligence</sub>
 </td>
@@ -128,15 +126,15 @@ I enjoy building practical tools that help leadership teams understand performan
 
 ---
 
-## Core Expertise
+## 🛠️ Core Expertise
 
 <table>
 <tr>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td width="50%" valign="top" bgcolor="#F8FBFF">
 
 <img src="https://img.shields.io/badge/Financial%20Analysis%20%26%20Reporting-002855?style=for-the-badge" alt="Financial Analysis and Reporting"/>
 
-### Finance Performance Control
+### 💰 Finance Performance Control
 
 - Forecasting, budgeting, and variance analysis
 - Income statement and profitability analysis
@@ -146,9 +144,9 @@ I enjoy building practical tools that help leadership teams understand performan
 </td>
 <td width="50%" valign="top" bgcolor="#EAF4FF">
 
-<img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-0077B5?style=for-the-badge" alt="Data Driven Decision Making"/>
+<img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-00509D?style=for-the-badge" alt="Data Driven Decision Making"/>
 
-### Analytics for Better Decisions
+### 📊 Analytics for Better Decisions
 
 - SQL reporting and data extraction
 - Python analytics and forecasting
@@ -163,7 +161,7 @@ I enjoy building practical tools that help leadership teams understand performan
 
 <img src="https://img.shields.io/badge/Process%20Optimization%20%26%20Automation-0F766E?style=for-the-badge" alt="Process Optimization and Automation"/>
 
-### Workflow Improvement
+### ⚙️ Workflow Improvement
 
 - Reporting automation
 - Operational workflow improvement
@@ -171,11 +169,11 @@ I enjoy building practical tools that help leadership teams understand performan
 - Exception reporting and control checks
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td width="50%" valign="top" bgcolor="#F8FBFF">
 
 <img src="https://img.shields.io/badge/Cross--Functional%20Leadership-111827?style=for-the-badge" alt="Cross Functional Leadership"/>
 
-### Business Partnership
+### 🤝 Business Partnership
 
 - Collaboration with sales, supply chain, IT, production, and leadership teams
 - Translating complex financial data into clear business actions
@@ -185,6 +183,7 @@ I enjoy building practical tools that help leadership teams understand performan
 </tr>
 </table>
 
+---
 
 ## Tools & Technologies
 
@@ -216,14 +215,14 @@ I enjoy building practical tools that help leadership teams understand performan
     <td width="50%" valign="top">
       <b>🛍️ PURCHASE INTELLIGENCE</b><br>
       <a href="https://github.com/shahgem/PO-Decision-Engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=PO-Decision-Engine&theme=transparent&show_icons=true&border_color=0077B5&title_color=002855&text_color=333333&icon_color=F2C811" alt="PO Decision Engine" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=PO-Decision-Engine&theme=transparent&show_icons=true&border_color=00509D&title_color=002855&text_color=333333&icon_color=F2C811" alt="PO Decision Engine" width="100%"/>
       </a>
       <sub><b>Value:</b> Vendor review, inventory control, and executive-ready purchase intelligence.</sub>
     </td>
     <td width="50%" valign="top">
       <b>📉 MARKET FORECASTING</b><br>
       <a href="https://github.com/shahgem/CIND-820">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-820&theme=transparent&show_icons=true&border_color=0077B5&title_color=002855&text_color=333333&icon_color=F2C811" alt="Crypto Price Forecasting" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-820&theme=transparent&show_icons=true&border_color=00509D&title_color=002855&text_color=333333&icon_color=F2C811" alt="Crypto Price Forecasting" width="100%"/>
       </a>
       <sub><b>Value:</b> Time-series machine learning (ARIMA, Prophet, LSTM) for financial modeling.</sub>
     </td>
@@ -232,14 +231,14 @@ I enjoy building practical tools that help leadership teams understand performan
     <td width="50%" valign="top">
       <b>👥 PREDICTIVE ANALYTICS</b><br>
       <a href="https://github.com/shahgem/CIND-119">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-119&theme=transparent&show_icons=true&border_color=0077B5&title_color=002855&text_color=333333&icon_color=F2C811" alt="Customer Churn" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=CIND-119&theme=transparent&show_icons=true&border_color=00509D&title_color=002855&text_color=333333&icon_color=F2C811" alt="Customer Churn" width="100%"/>
       </a>
       <sub><b>Value:</b> Customer behavior analysis, risk identification, and retention strategy.</sub>
     </td>
     <td width="50%" valign="top">
       <b>📚 RESEARCH & PUBLICATIONS</b><br>
       <a href="https://github.com/shahgem/Blogs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=Blogs&theme=transparent&show_icons=true&border_color=0077B5&title_color=002855&text_color=333333&icon_color=F2C811" alt="Blogs and Articles" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahgem&repo=Blogs&theme=transparent&show_icons=true&border_color=00509D&title_color=002855&text_color=333333&icon_color=F2C811" alt="Blogs and Articles" width="100%"/>
       </a>
       <sub><b>Value:</b> Documentation of SQL performance, reporting, and analytics workflows.</sub>
     </td>
@@ -248,15 +247,15 @@ I enjoy building practical tools that help leadership teams understand performan
 
 ---
 
-## Project Highlights
+## 🚀 Project Highlights
 
 <table>
 <tr>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td width="50%" valign="top" bgcolor="#F8FBFF">
 
 <img src="https://img.shields.io/badge/PO%20Decision%20Engine-Purchase%20Intelligence-002855?style=for-the-badge&logo=github&logoColor=white" alt="PO Decision Engine"/>
 
-### PO Decision Engine
+### 🛒 PO Decision Engine
 
 A purchase intelligence and decision-support application designed for smarter inventory, vendor, cash-flow, and procurement decisions.
 
@@ -269,15 +268,15 @@ A purchase intelligence and decision-support application designed for smarter in
 - Executive-ready purchase intelligence
 
 <a href="https://github.com/shahgem/PO-Decision-Engine">
-  <img src="https://img.shields.io/badge/Open%20Project-PO%20Decision%20Engine-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Open PO Decision Engine project"/>
+  <img src="https://img.shields.io/badge/Open%20Project-PO%20Decision%20Engine-00509D?style=for-the-badge&logo=github&logoColor=white" alt="Open PO Decision Engine project"/>
 </a>
 
 </td>
 <td width="50%" valign="top" bgcolor="#EAF4FF">
 
-<img src="https://img.shields.io/badge/Crypto%20Forecasting-Time%20Series%20ML-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Cryptocurrency Price Forecasting"/>
+<img src="https://img.shields.io/badge/Crypto%20Forecasting-Time%20Series%20ML-00509D?style=for-the-badge&logo=github&logoColor=white" alt="Cryptocurrency Price Forecasting"/>
 
-### Cryptocurrency Price Forecasting
+### 📈 Cryptocurrency Price Forecasting
 
 A time-series forecasting project focused on predicting cryptocurrency prices using machine learning and statistical forecasting models.
 
@@ -290,7 +289,7 @@ A time-series forecasting project focused on predicting cryptocurrency prices us
 - LSTM
 
 <a href="https://github.com/shahgem/CIND-820">
-  <img src="https://img.shields.io/badge/Open%20Project-Crypto%20Forecasting-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Open crypto forecasting project"/>
+  <img src="https://img.shields.io/badge/Open%20Project-Crypto%20Forecasting-00509D?style=for-the-badge&logo=github&logoColor=white" alt="Open crypto forecasting project"/>
 </a>
 
 </td>
@@ -301,7 +300,7 @@ A time-series forecasting project focused on predicting cryptocurrency prices us
 
 <img src="https://img.shields.io/badge/Customer%20Churn-Predictive%20Analytics-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Customer Churn Prediction"/>
 
-### Customer Churn Prediction
+### 👥 Customer Churn Prediction
 
 A predictive analytics project focused on identifying customer churn patterns and supporting customer retention strategy.
 
@@ -313,15 +312,15 @@ A predictive analytics project focused on identifying customer churn patterns an
 - Classification modeling
 
 <a href="https://github.com/shahgem/CIND-119">
-  <img src="https://img.shields.io/badge/Open%20Project-Customer%20Churn-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Open customer churn project"/>
+  <img src="https://img.shields.io/badge/Open%20Project-Customer%20Churn-00509D?style=for-the-badge&logo=github&logoColor=white" alt="Open customer churn project"/>
 </a>
 
 </td>
-<td width="50%" valign="top" bgcolor="#FFFFFF">
+<td width="50%" valign="top" bgcolor="#F8FBFF">
 
 <img src="https://img.shields.io/badge/Blogs%20%26%20Articles-Analytics%20Writing-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Blogs and Articles"/>
 
-### Blogs & Articles
+### 📚 Blogs & Articles
 
 A collection of articles, notes, and learning material focused on analytics, SQL, reporting, business intelligence, and practical data projects.
 
@@ -374,7 +373,7 @@ A collection of articles, notes, and learning material focused on analytics, SQL
 ## Business Areas I Support
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sales-Revenue%20%7C%20Trends%20%7C%20Customers-0077B5?style=for-the-badge" alt="Sales analytics"/>
+  <img src="https://img.shields.io/badge/Sales-Revenue%20%7C%20Trends%20%7C%20Customers-00509D?style=for-the-badge" alt="Sales analytics"/>
   <img src="https://img.shields.io/badge/Supply%20Chain-Purchasing%20%7C%20Inventory%20%7C%20Vendors-0F766E?style=for-the-badge" alt="Supply chain analytics"/>
   <img src="https://img.shields.io/badge/Finance-Margins%20%7C%20Variance%20%7C%20Cash%20Flow-002855?style=for-the-badge" alt="Finance analytics"/>
   <img src="https://img.shields.io/badge/Operations-Efficiency%20%7C%20Automation-7C3AED?style=for-the-badge" alt="Operations analytics"/>
@@ -423,10 +422,10 @@ A collection of articles, notes, and learning material focused on analytics, SQL
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrshahzadahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-00509D?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
   <a href="https://github.com/shahgem">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub profile"/>
   </a>
   <a href="https://github.com/shahgem?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View%20All-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
@@ -452,9 +451,8 @@ Only uncomment this section if you want your email public on GitHub.
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:002855,50:0077B5,100:0F766E&height=120&section=footer" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:002855,50:00509D,100:0F766E&height=120&section=footer" 
     width="100%" 
     alt="Footer wave design"
   />
 </p>
-```
