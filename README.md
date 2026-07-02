@@ -53,20 +53,30 @@
 
 ---
 
-## 🧭 About Me
+## 🧭 Executive Value Proposition
 
-> Turning financial data into **business direction** and **executive decisions**.
 
-I am a finance and business analytics professional with **15+ years** of experience, specializing in:
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Who I Am</b>
+      <br /><br />
+      <sub>Finance and business analytics professional with 15+ years of experience across reporting, forecasting, performance control, and leadership decision support.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>What I Build</b>
+      <br /><br />
+      <sub>Executive dashboards, purchasing intelligence tools, forecasting models, reporting automation, and finance-aware decision systems.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Why It Matters</b>
+      <br /><br />
+      <sub>Leaders need clarity before action. I design systems that expose risk, explain performance, and turn analysis into confident decisions.</sub>
+    </td>
+  </tr>
+</table>
 
-- Financial analysis, forecasting, and variance analysis
-- SQL-based reporting and data extraction
-- Power BI dashboards and management reporting
-- Python/R for forecasting and predictive analytics
-- Automation of finance and reporting workflows
-- Business process analysis and improvement
-
-I build **decision-support systems** that help leadership teams understand performance, identify risk, and act with clarity.
+<br />
 
 ---
 
