@@ -227,7 +227,7 @@ I build **decision-support systems** that help leadership teams understand perfo
 ### 🛒 PO Decision Engine
 
 <a href="https://github.com/shahgem/PO-Decision-Engine">
-  <img src="./assets/PO-Decision-Engine.png" width="100%" alt="PO Decision Engine preview"/>
+  <img src="./assets/PO%20Decision%20Engine.png" width="100%" alt="PO Decision Engine preview"/>
 </a>
 
 - Purchase intelligence and decision-support
@@ -247,7 +247,7 @@ I build **decision-support systems** that help leadership teams understand perfo
 ### 📈 Cryptocurrency Price Forecasting
 
 <a href="https://github.com/shahgem/CIND-820">
-  <img src="./assets/crypto-forecast-preview.png" width="100%" alt="Crypto forecasting preview"/>
+  <img src="./assets/Crypto.png" width="100%" alt="Crypto forecasting preview"/>
 </a>
 
 - Time-series forecasting with ARIMA, Prophet, LSTM
@@ -262,13 +262,14 @@ I build **decision-support systems** that help leadership teams understand perfo
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 👥 Customer Churn Prediction
 
 <a href="https://github.com/shahgem/CIND-119">
-  <img src="./assets/customer-churn-preview.png" width="100%" alt="Customer churn prediction preview"/>
+  <img src="./assets/Customer%20Churn.png" width="100%" alt="Customer churn prediction preview"/>
 </a>
 
 - Customer behavior analysis
@@ -288,7 +289,7 @@ I build **decision-support systems** that help leadership teams understand perfo
 ### 📚 Blogs & Articles
 
 <a href="https://github.com/shahgem/Blogs">
-  <img src="./assets/blogs-preview.png" width="100%" alt="Blogs and articles preview"/>
+  <img src="./assets/Blogs.png" width="100%" alt="Blogs and articles preview"/>
 </a>
 
 - SQL performance and optimization
@@ -307,7 +308,6 @@ I build **decision-support systems** that help leadership teams understand perfo
 </table>
 
 ---
-
 ## 🔄 Business & Data Analytics Pipeline
 
 <p align="center">
