@@ -227,7 +227,7 @@ I build **decision-support systems** that help leadership teams understand perfo
 ### 🛒 PO Decision Engine
 
 <a href="https://github.com/shahgem/PO-Decision-Engine">
-  <img src="./assets/PO%20Decision%20Engine.png" width="100%" alt="PO Decision Engine preview"/>
+  <img src="./assets/po-decision-engine.png" width="100%" alt="PO Decision Engine preview"/>
 </a>
 
 - Purchase intelligence and decision-support
