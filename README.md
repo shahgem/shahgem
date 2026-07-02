@@ -7,13 +7,20 @@
   />
 </p>
 
-<!-- Name & Title -->
-<h1 align="center" style="color:#002855; margin-bottom:0;">
-  Shahzad Ahmed
-</h1>
-<h3 align="center" style="color:#00509D; margin-top:0;">
-  Finance & Business Analytics Professional
-</h3>
+<!-- Animated Name & Professional Title -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=3000&pause=900&color=002855&center=true&vCenter=true&width=950&height=60&lines=Shahzad+Ahmed" 
+    alt="Animated Shahzad Ahmed name ticker"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00509D&center=true&vCenter=true&width=950&height=45&lines=Finance+%26+Business+Analytics+Professional;Finance+%7C+Analytics+%7C+Business+Intelligence;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Turning+Financial+Data+into+Business+Decisions" 
+    alt="Animated finance and business analytics professional title"
+  />
+</p>
 
 <!-- Key Professional Statement (moved up) -->
 <p align="center" style="color:#111827; font-size:1.1em; font-weight:500;">
@@ -66,7 +73,7 @@ I build **decision-support systems** that help leadership teams understand perfo
 ## Key Highlights
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2400&pause=700&color=0F766E&center=true&vCenter=true&width=950&lines=15%2B+Years+of+Finance+%26+Business+Experience;Finance+%2B+Data+%2B+Technology;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Dashboards+Built+for+Business+Impact;Insight+that+Leads+to+Action" alt="Animated key highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2400&pause=700&color=00509D&center=true&vCenter=true&width=950&lines=15%2B+Years+of+Finance+%26+Business+Experience;Finance+%2B+Data+%2B+Technology;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Dashboards+Built+for+Business+Impact;Insight+that+Leads+to+Action" alt="Animated key highlights" />
 </p>
 
 <table>
