@@ -192,39 +192,75 @@
 
 ---
 
+## 💼 Business Impact
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>Executive Dashboards</b><br /><sub>Leadership views that connect performance, risk, and action in one place.</sub></td>
+    <td width="25%" valign="top"><b>Cash Flow Intelligence</b><br /><sub>Visibility into liquidity pressure, payment timing, and working capital decisions.</sub></td>
+    <td width="25%" valign="top"><b>Inventory Optimization</b><br /><sub>Signals for stock risk, purchase timing, vendor exposure, and capital discipline.</sub></td>
+    <td width="25%" valign="top"><b>Forecasting</b><br /><sub>Forward-looking models for planning, volatility, and executive scenario review.</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Decision Automation</b><br /><sub>Repeatable workflows that reduce manual review and improve control.</sub></td>
+    <td width="25%" valign="top"><b>Purchasing Intelligence</b><br /><sub>Recommendation logic for what to buy, when to buy, and why.</sub></td>
+    <td width="25%" valign="top"><b>Sales Intelligence</b><br /><sub>Revenue, customer, margin, and trend analysis for commercial decisions.</sub></td>
+    <td width="25%" valign="top"><b>Margin Analysis</b><br /><sub>Profitability views that connect pricing, cost, volume, and operational drivers.</sub></td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Financial Reporting</b><br /><sub>Structured reporting for performance, variance, profitability, and control.</sub></td>
+    <td width="25%" valign="top"><b>Executive Reporting</b><br /><sub>Boardroom-ready summaries focused on decisions, not data noise.</sub></td>
+    <td width="25%" valign="top"><b>Business Intelligence</b><br /><sub>Unified reporting layers for finance, operations, sales, and supply chain.</sub></td>
+    <td width="25%" valign="top"><b>Automation</b><br /><sub>Automated reporting flows that improve speed, consistency, and reliability.</sub></td>
+  </tr>
+</table>
+
+<br />
+
+---
+
 ## 🛠️ Tools & Technologies
 
-### Data & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <b>Data</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/SQL-061826?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Python-0057B8?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/R-0F766E?style=flat-square&logo=r&logoColor=white" alt="R" />
+      <img src="https://img.shields.io/badge/Pandas-061826?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-0057B8?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+    <td width="25%" valign="top">
+      <b>Visualization</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Power%20BI-F5B700?style=flat-square&logo=powerbi&logoColor=061826" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Excel-0F766E?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/Tableau-0057B8?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Dashboards-061826?style=flat-square" alt="Dashboards" />
+    </td>
+    <td width="25%" valign="top">
+      <b>Automation</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Power%20Automate-0057B8?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
+      <img src="https://img.shields.io/badge/Python%20Workflows-061826?style=flat-square&logo=python&logoColor=white" alt="Python workflows" />
+      <img src="https://img.shields.io/badge/SAP%20Workflows-0F766E?style=flat-square" alt="SAP workflows" />
+      <img src="https://img.shields.io/badge/Reporting%20Pipelines-F5B700?style=flat-square&logoColor=061826" alt="Reporting pipelines" />
+    </td>
+    <td width="25%" valign="top">
+      <b>Finance Intelligence</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Forecasting-0057B8?style=flat-square" alt="Forecasting" />
+      <img src="https://img.shields.io/badge/Budgeting-061826?style=flat-square" alt="Budgeting" />
+      <img src="https://img.shields.io/badge/Variance%20Analysis-0F766E?style=flat-square" alt="Variance analysis" />
+      <img src="https://img.shields.io/badge/Inventory-F5B700?style=flat-square&logoColor=061826" alt="Inventory" />
+      <img src="https://img.shields.io/badge/Cash%20Flow-0057B8?style=flat-square" alt="Cash flow" />
+    </td>
+  </tr>
+</table>
 
-### Visualization & BI
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Dashboarding-1D4ED8?style=flat-square" alt="Dashboarding"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
-
-### Automation & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate"/>
-  <img src="https://img.shields.io/badge/Automation-7C3AED?style=flat-square" alt="Automation"/>
-</p>
-
-### Finance & Office Tools
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"/>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="Word"/>
-  <img src="https://img.shields.io/badge/Forecasting-0F766E?style=flat-square" alt="Forecasting"/>
-</p>
+<br />
 
 ---
 
@@ -348,15 +384,26 @@
 
 ---
 
-## Business Domains I Drive
+## 🏗️ Business Domains I Drive
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sales-Revenue%20%7C%20Trends%20%7C%20Customers-00509D?style=for-the-badge" alt="Sales analytics"/>
-  <img src="https://img.shields.io/badge/Supply%20Chain-Purchasing%20%7C%20Inventory%20%7C%20Vendors-0F766E?style=for-the-badge" alt="Supply chain analytics"/>
-  <img src="https://img.shields.io/badge/Finance-Margins%20%7C%20Variance%20%7C%20Cash%20Flow-002855?style=for-the-badge" alt="Finance analytics"/>
-  <img src="https://img.shields.io/badge/Operations-Efficiency%20%7C%20Automation-7C3AED?style=for-the-badge" alt="Operations analytics"/>
-  <img src="https://img.shields.io/badge/Leadership-Dashboards%20%7C+Decision%20Support-111827?style=for-the-badge" alt="Leadership reporting"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%"><b>Finance</b><br /><sub>Margins, variance, cash flow, control.</sub></td>
+    <td align="center" width="20%"><b>Sales</b><br /><sub>Revenue, customers, trends, performance.</sub></td>
+    <td align="center" width="20%"><b>Supply Chain</b><br /><sub>Purchasing, vendors, inventory, flow.</sub></td>
+    <td align="center" width="20%"><b>Operations</b><br /><sub>Efficiency, exceptions, process control.</sub></td>
+    <td align="center" width="20%"><b>Leadership</b><br /><sub>Executive reporting and decision support.</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Purchasing</b><br /><sub>Buy signals, vendor review, PO logic.</sub></td>
+    <td align="center" width="20%"><b>Inventory</b><br /><sub>Stock risk and working capital impact.</sub></td>
+    <td align="center" width="20%"><b>Forecasting</b><br /><sub>Scenario visibility and planning discipline.</sub></td>
+    <td align="center" width="20%"><b>Business Intelligence</b><br /><sub>Clean reporting layers for decision makers.</sub></td>
+    <td align="center" width="20%"><b>Automation</b><br /><sub>Repeatable systems for speed and control.</sub></td>
+  </tr>
+</table>
+
+<br />
 
 ---
 
