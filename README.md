@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img 
     src="./assets/shahzad-banner.png" 
@@ -7,7 +6,6 @@
   />
 </p>
 
-<!-- Animated Name & Professional Title -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=002855&center=true&vCenter=true&width=950&height=50&lines=Shahzad+Ahmed" 
@@ -22,19 +20,16 @@
   />
 </p>
 
-<!-- Key Professional Statement (moved up) -->
-<p align="center" style="color:#111827; font-size:1.1em; font-weight:500;">
-  From financial discipline to advanced analytics, I bridge the gap between data and decisions, helping organizations perform, grow, and lead.
+<p align="center">
+  <strong>From financial discipline to advanced analytics, I bridge the gap between data and decisions, helping organizations perform, grow, and lead.</strong>
 </p>
 
-<!-- Animated Role Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=002855&center=true&vCenter=true&width=950&height=50&lines=Finance+%26+Business+Analytics+Professional;Financial+Analysis+%7C+Business+Intelligence+%7C+Automation;SQL+%7C+Python+%7C+R+%7C+Power+BI+%7C+Excel;Forecasting+%7C+Predictive+Analytics+%7C+Decision+Support;Sales+%7C+Purchase+%7C+Inventory+%7C+Margin+Analytics;KPI+Dashboards+%7C+Management+Reporting+%7C+Executive+Insights;Turning+Numbers+into+Strategy;Turning+Insight+into+Action;Turning+Data+into+Business+Value" alt="Animated finance and analytics role titles"/>
 </p>
 
-<h2 align="center" style="color:#002855;">Finance | Business Analytics | Business Intelligence | Automation</h2>
+<h2 align="center">Finance | Business Analytics | Business Intelligence | Automation</h2>
 
-<!-- Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mrshahzadahmed/">
     <img src="https://img.shields.io/badge/LinkedIn-Shahzad%20Ahmed-00509D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
@@ -55,22 +50,25 @@
 
 ## 🧭 Executive Value Proposition
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td width="33%" valign="top">
-      <b>Who I Am</b>
-      <br /><br />
-      <sub>Finance and business analytics professional with 15+ years of experience across reporting, forecasting, performance control, and leadership decision support.</sub>
+    <td width="33.3%" valign="top" style="padding: 15px;">
+      <h3>Who I Am</h3>
+      <p align="left">
+        Finance and business analytics professional with 15+ years of experience across reporting, forecasting, performance control, and leadership decision support.
+      </p>
     </td>
-    <td width="33%" valign="top">
-      <b>What I Build</b>
-      <br /><br />
-      <sub>Executive dashboards, purchasing intelligence tools, forecasting models, reporting automation, and finance-aware decision systems.</sub>
+    <td width="33.3%" valign="top" style="padding: 15px;">
+      <h3>What I Build</h3>
+      <p align="left">
+        Executive dashboards, purchasing intelligence tools, forecasting models, reporting automation, and finance-aware decision systems.
+      </p>
     </td>
-    <td width="33%" valign="top">
-      <b>Why It Matters</b>
-      <br /><br />
-      <sub>Leaders need clarity before action. I design systems that expose risk, explain performance, and turn analysis into confident decisions.</sub>
+    <td width="33.3%" valign="top" style="padding: 15px;">
+      <h3>Why It Matters</h3>
+      <p align="left">
+        Leaders need clarity before action. I design systems that expose risk, explain performance, and turn analysis into confident decisions.
+      </p>
     </td>
   </tr>
 </table>
@@ -187,63 +185,55 @@
 </tr>
 </table>
 
+
 ## 💼 Business Impact
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=002855&center=true&vCenter=true&width=950&lines=STRATEGIC+VALUE+%7C+OPERATIONAL+EXCELLENCE+%7C+PROFITABLE+GROWTH" alt="Business Impact Header" />
 </p>
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <thead>
     <tr>
-      <th colspan="3" bgcolor="#002855" align="center">
-        <font color="#ffffff" size="5">🚀 BUSINESS IMPACT ECOSYSTEM</font>
+      <th colspan="3" bgcolor="#002855" align="center" style="padding: 12px;">
+        <font color="#ffffff" size="4">🚀 BUSINESS IMPACT ECOSYSTEM</font>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- Finance & Strategy -->
-      <td width="33.3%" align="center" valign="top" bgcolor="#F8FBFF">
-        <br>
-        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60" />
-        <br>
-        <font color="#00509D"><h3>Finance & Strategy</h3></font>
-        <p align="left">
-          <b>• Executive Dashboards:</b> High-level views connecting performance, risk, and action.<br><br>
-          <b>• Forecasting Models:</b> Forward-looking scenarios for planning and volatility.<br><br>
-          <b>• Executive Reporting:</b> Boardroom-ready summaries focused on decisions.
-        </p>
+      <td width="33.3%" align="center" valign="top" bgcolor="#F8FBFF" style="padding: 15px; border: 1px solid #e5e7eb;">
+        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="50" /><br />
+        <h3>Finance & Strategy</h3>
+        <ul align="left">
+          <li><b>Executive Dashboards:</b> High-level views connecting performance, risk, and action.</li>
+          <li><b>Forecasting Models:</b> Forward-looking scenarios for planning and volatility.</li>
+          <li><b>Executive Reporting:</b> Boardroom-ready summaries focused on decisions.</li>
+        </ul>
       </td>
-      <!-- Operational Excellence -->
-      <td width="33.3%" align="center" valign="top" bgcolor="#F0FDF4">
-        <br>
-        <img src="https://img.icons8.com/fluency/96/process.png" width="60" />
-        <br>
-        <font color="#059669"><h3>Operational Excellence</h3></font>
-        <p align="left">
-          <b>• Inventory Optimization:</b> Signals for stock risk, purchase timing, and vendor exposure.<br><br>
-          <b>• Purchasing Intelligence:</b> Logic-driven recommendations for procurement.<br><br>
-          <b>• Decision Automation:</b> Repeatable workflows that reduce manual review.
-        </p>
+      <td width="33.3%" align="center" valign="top" bgcolor="#F0FDF4" style="padding: 15px; border: 1px solid #e5e7eb;">
+        <img src="https://img.icons8.com/fluency/96/process.png" width="50" /><br />
+        <h3>Operational Excellence</h3>
+        <ul align="left">
+          <li><b>Inventory Optimization:</b> Signals for stock risk, purchase timing, and vendor exposure.</li>
+          <li><b>Purchasing Intelligence:</b> Logic-driven recommendations for procurement.</li>
+          <li><b>Decision Automation:</b> Repeatable workflows that reduce manual review.</li>
+        </ul>
       </td>
-      <!-- Growth & Profitability -->
-      <td width="33.3%" align="center" valign="top" bgcolor="#FFFBEB">
-        <br>
-        <img src="https://img.icons8.com/fluency/96/target.png" width="60" />
-        <br>
-        <font color="#D97706"><h3>Growth & Profitability</h3></font>
-        <p align="left">
-          <b>• Margin Analysis:</b> Profitability views connecting pricing, cost, and volume.<br><br>
-          <b>• Sales Intelligence:</b> Revenue, customer, and trend analysis for commercial growth.<br><br>
-          <b>• Cash Flow Intelligence:</b> Visibility into liquidity and working capital.
-        </p>
+      <td width="33.3%" align="center" valign="top" bgcolor="#FFFBEB" style="padding: 15px; border: 1px solid #e5e7eb;">
+        <img src="https://img.icons8.com/fluency/96/target.png" width="50" /><br />
+        <h3>Growth & Profitability</h3>
+        <ul align="left">
+          <li><b>Margin Analysis:</b> Profitability views connecting pricing, cost, and volume.</li>
+          <li><b>Sales Intelligence:</b> Revenue, customer, and trend analysis for commercial growth.</li>
+          <li><b>Cash Flow Intelligence:</b> Visibility into liquidity and working capital.</li>
+        </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-<p align="center">
+<p align="center" style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/Strategic%20Alignment-002855?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Driven-059669?style=for-the-badge&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/ROI%20Focused-D97706?style=for-the-badge&logo=money&logoColor=white" />
@@ -304,9 +294,9 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px; border: 1px solid #e5e7eb;">
 
 ### 🛒 PO Decision Engine
 
@@ -314,19 +304,21 @@
   <img src="./assets/po-decision-engine.png.png" width="100%" alt="PO Decision Engine preview"/>
 </a>
 
-- Purchase intelligence and decision-support
-- Vendor review and inventory control
-- Finance-aware decision support
-- Executive-ready purchase intelligence
+<ul style="margin-top: 10px; padding-left: 20px;">
+  <li>Purchase intelligence and decision-support</li>
+  <li>Vendor review and inventory control</li>
+  <li>Finance-aware decision support</li>
+  <li>Executive-ready purchase intelligence</li>
+</ul>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<p style="margin-top: 12px; margin-bottom: 0;">
+  <img src="https://img.shields.io/badge/Python-0A66C2?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px; border: 1px solid #e5e7eb;">
 
 ### 📈 Cryptocurrency Price Forecasting
 
@@ -334,21 +326,23 @@
   <img src="./assets/Crypto.png" width="100%" alt="Crypto forecasting preview"/>
 </a>
 
-- Time-series forecasting with ARIMA, Prophet, LSTM
-- Financial modeling and risk assessment
-- Predictive analytics for market trends
+<ul style="margin-top: 10px; padding-left: 20px;">
+  <li>Time-series forecasting with ARIMA, Prophet, LSTM</li>
+  <li>Financial modeling and risk assessment</li>
+  <li>Predictive analytics for market trends</li>
+</ul>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/ARIMA-0F766E?style=flat-square" alt="ARIMA"/>
-  <img src="https://img.shields.io/badge/LSTM-7C3AED?style=flat-square" alt="LSTM"/>
+<p style="margin-top: 12px; margin-bottom: 0;">
+  <img src="https://img.shields.io/badge/Python-0A66C2?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/ARIMA-0F766E?style=flat" alt="ARIMA"/>
+  <img src="https://img.shields.io/badge/LSTM-7C3AED?style=flat" alt="LSTM"/>
 </p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px; border: 1px solid #e5e7eb;">
 
 ### 👥 Customer Churn Prediction
 
@@ -356,19 +350,21 @@
   <img src="./assets/Customer%20Churn.png" width="100%" alt="Customer churn prediction preview"/>
 </a>
 
-- Customer behavior analysis
-- Churn risk identification
-- Retention planning support
-- Classification modeling
+<ul style="margin-top: 10px; padding-left: 20px;">
+  <li>Customer behavior analysis</li>
+  <li>Churn risk identification</li>
+  <li>Retention planning support</li>
+  <li>Classification modeling</li>
+</ul>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/Predictive%20Analytics-0F766E?style=flat-square" alt="Predictive Analytics"/>
+<p style="margin-top: 12px; margin-bottom: 0;">
+  <img src="https://img.shields.io/badge/Python-0A66C2?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-0F766E?style=flat" alt="Predictive Analytics"/>
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 15px; border: 1px solid #e5e7eb;">
 
 ### 📚 Blogs & Articles
 
@@ -376,15 +372,17 @@
   <img src="./assets/Blogs.png" width="100%" alt="Blogs and articles preview"/>
 </a>
 
-- SQL performance and optimization
-- Analytics workflows and best practices
-- Business reporting and finance-focused analysis
-- Documentation of real-world projects
+<ul style="margin-top: 10px; padding-left: 20px;">
+  <li>SQL performance and optimization</li>
+  <li>Analytics workflows and best practices</li>
+  <li>Business reporting and finance-focused analysis</li>
+  <li>Documentation of real-world projects</li>
+</ul>
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Business%20Intelligence-00509D?style=flat-square" alt="Business Intelligence"/>
-  <img src="https://img.shields.io/badge/Documentation-111827?style=flat-square" alt="Documentation"/>
+<p style="margin-top: 12px; margin-bottom: 0;">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-00509D?style=flat" alt="Business Intelligence"/>
+  <img src="https://img.shields.io/badge/Documentation-111827?style=flat" alt="Documentation"/>
 </p>
 
 </td>
@@ -394,7 +392,7 @@
 ---
 ## 🔄 Business & Data Analytics Pipeline
 
-<p align="center">
+<p align="center" style="margin-bottom: 15px;">
   <img src="https://img.shields.io/badge/1_Understand%20Business%20Needs-002855?style=for-the-badge" alt="Understand Business Needs"/> ➔
   <img src="https://img.shields.io/badge/2_Collect%20%26%20Prepare%20Data-00509D?style=for-the-badge" alt="Collect & Prepare Data"/> ➔
   <img src="https://img.shields.io/badge/3_Analyze%20%26%20Model-0077B5?style=for-the-badge" alt="Analyze & Model"/> ➔
@@ -403,19 +401,25 @@
   <img src="https://img.shields.io/badge/6_Monitor%20%26%20Improve-111827?style=for-the-badge" alt="Monitor & Improve"/>
 </p>
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td width="33%" align="center">
-      <b>Business Discovery</b><br>
-      <sub>Understanding stakeholder needs, business processes, and success metrics.</sub>
+    <td width="33.3%" align="center" valign="top" style="padding: 10px;">
+      <strong>Business Discovery</strong><br /><br />
+      <p align="center">
+        Understanding stakeholder needs, business processes, and success metrics.
+      </p>
     </td>
-    <td width="33%" align="center">
-      <b>Data & Analytics</b><br>
-      <sub>Collecting, preparing, and modeling data to uncover insights.</sub>
+    <td width="33.3%" align="center" valign="top" style="padding: 10px;">
+      <strong>Data & Analytics</strong><br /><br />
+      <p align="center">
+        Collecting, preparing, and modeling data to uncover insights.
+      </p>
     </td>
-    <td width="33%" align="center">
-      <b>Impact & Execution</b><br>
-      <sub>Translating insights into actionable recommendations and measurable outcomes.</sub>
+    <td width="33.3%" align="center" valign="top" style="padding: 10px;">
+      <strong>Impact & Execution</strong><br /><br />
+      <p align="center">
+        Translating insights into actionable recommendations and measurable outcomes.
+      </p>
     </td>
   </tr>
 </table>
@@ -424,20 +428,50 @@
 
 ## 🏗️ Business Domains I Drive
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td align="center" width="20%"><b>Finance</b><br /><sub>Margins, variance, cash flow, control.</sub></td>
-    <td align="center" width="20%"><b>Sales</b><br /><sub>Revenue, customers, trends, performance.</sub></td>
-    <td align="center" width="20%"><b>Supply Chain</b><br /><sub>Purchasing, vendors, inventory, flow.</sub></td>
-    <td align="center" width="20%"><b>Operations</b><br /><sub>Efficiency, exceptions, process control.</sub></td>
-    <td align="center" width="20%"><b>Leadership</b><br /><sub>Executive reporting and decision support.</sub></td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Finance</strong><br /><br />
+      <font color="#555555" size="2">Margins, variance, cash flow, control.</font>
+    </td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Sales</strong><br /><br />
+      <font color="#555555" size="2">Revenue, customers, trends, performance.</font>
+    </td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Supply Chain</strong><br /><br />
+      <font color="#555555" size="2">Purchasing, vendors, inventory, flow.</font>
+    </td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Operations</strong><br /><br />
+      <font color="#555555" size="2">Efficiency, exceptions, process control.</font>
+    </td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Leadership</strong><br /><br />
+      <font color="#555555" size="2">Executive reporting and decision support.</font>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>Purchasing</b><br /><sub>Buy signals, vendor review, PO logic.</sub></td>
-    <td align="center" width="20%"><b>Inventory</b><br /><sub>Stock risk and working capital impact.</sub></td>
-    <td align="center" width="20%"><b>Forecasting</b><br /><sub>Scenario visibility and planning discipline.</sub></td>
-    <td align="center" width="20%"><b>Business Intelligence</b><br /><sub>Clean reporting layers for decision makers.</sub></td>
-    <td align="center" width="20%"><b>Automation</b><br /><sub>Repeatable systems for speed and control.</sub></td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Purchasing</strong><br /><br />
+      <font color="#555555" size="2">Buy signals, vendor review, PO logic.</font>
+    </td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Inventory</strong><br /><br />
+      <font color="#555555" size="2">Stock risk and working capital impact.</font>
+    </td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Forecasting</strong><br /><br />
+      <font color="#555555" size="2">Scenario visibility and planning discipline.</font>
+    </td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Business Intelligence</strong><br /><br />
+      <font color="#555555" size="2">Clean reporting layers for decision makers.</font>
+    </td>
+    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
+      <strong>Automation</strong><br /><br />
+      <font color="#555555" size="2">Repeatable systems for speed and control.</font>
+    </td>
   </tr>
 </table>
 
