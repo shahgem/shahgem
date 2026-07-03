@@ -390,8 +390,9 @@
 </table>
 
 ---
+## 🔄 Business & Data Analytics Pipeline
 
-<h3 align="center">⚡ <b>BUSINESS & DATA ANALYTICS PIPELINE</b></h3>
+<h3 align="center">
 
 <table width="100%">
     <tr>
@@ -435,7 +436,9 @@
 
 ---
 
-<h3 align="center">🏢 <b>BUSINESS DOMAINS I DRIVE</b></h3>
+## 🏗️ Business Domains I Drive
+
+<h3 align="center">
 
 <table width="100%">
     <tr>
