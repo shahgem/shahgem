@@ -392,90 +392,150 @@
 ---
 ## 🔄 Business & Data Analytics Pipeline
 
-<p align="center" style="margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/1_Understand%20Business%20Needs-002855?style=for-the-badge" alt="Understand Business Needs"/> ➔
-  <img src="https://img.shields.io/badge/2_Collect%20%26%20Prepare%20Data-00509D?style=for-the-badge" alt="Collect & Prepare Data"/> ➔
-  <img src="https://img.shields.io/badge/3_Analyze%20%26%20Model-0077B5?style=for-the-badge" alt="Analyze & Model"/> ➔
-  <img src="https://img.shields.io/badge/4_Visualize%20%26%20Communicate-0F766E?style=for-the-badge" alt="Visualize & Communicate"/> ➔
-  <img src="https://img.shields.io/badge/5_Recommend%20%26%20Drive%20Action-1E3A8A?style=for-the-badge" alt="Recommend & Drive Action"/> ➔
-  <img src="https://img.shields.io/badge/6_Monitor%20%26%20Improve-111827?style=for-the-badge" alt="Monitor & Improve"/>
+<p align="center" style="font-size: 32px; font-weight: 900; color: #002855; margin: 10px 0 6px 0; letter-spacing: 1px;">
+    ⚡ Business & Data Analytics Pipeline
 </p>
 
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
-  <tr>
-    <td width="33.3%" align="center" valign="top" style="padding: 10px;">
-      <strong>Business Discovery</strong><br /><br />
-      <p align="center">
-        Understanding stakeholder needs, business processes, and success metrics.
-      </p>
-    </td>
-    <td width="33.3%" align="center" valign="top" style="padding: 10px;">
-      <strong>Data & Analytics</strong><br /><br />
-      <p align="center">
-        Collecting, preparing, and modeling data to uncover insights.
-      </p>
-    </td>
-    <td width="33.3%" align="center" valign="top" style="padding: 10px;">
-      <strong>Impact & Execution</strong><br /><br />
-      <p align="center">
-        Translating insights into actionable recommendations and measurable outcomes.
-      </p>
-    </td>
-  </tr>
+<table width="100%" style="table-layout: fixed; border-collapse: collapse; background: transparent; margin: 16px 0;">
+    <tr>
+        <!-- Step 1 -->
+        <td align="center" valign="middle" style="padding: 12px 6px; background: #F0F7FF; border-radius: 18px; border: 3px solid #D6E4F0; box-shadow: 0 4px 12px rgba(0,40,85,0.10);">
+            <div style="display: inline-block; background: #002855; color: #fff; border-radius: 50%; width: 44px; height: 44px; line-height: 44px; font-size: 20px; font-weight: 900; margin-bottom: 8px;">1</div>
+            <div style="font-size: 56px; line-height: 1.2;">🔍</div>
+            <div style="font-weight: 900; font-size: 18px; color: #002855; letter-spacing: 0.5px;">Understand</div>
+            <div style="font-weight: 700; font-size: 14px; color: #1A2A3A; line-height: 1.3;">Business Needs</div>
+        </td>
+        <!-- Arrow (static) -->
+        <td style="padding: 0 6px; width: 40px; text-align: center; font-size: 38px; color: #00509D; font-weight: 700;">➜</td>
+        <!-- Step 2 -->
+        <td align="center" valign="middle" style="padding: 12px 6px; background: #E6F3FF; border-radius: 18px; border: 3px solid #C5DBF0; box-shadow: 0 4px 12px rgba(0,40,85,0.10);">
+            <div style="display: inline-block; background: #00509D; color: #fff; border-radius: 50%; width: 44px; height: 44px; line-height: 44px; font-size: 20px; font-weight: 900; margin-bottom: 8px;">2</div>
+            <div style="font-size: 56px; line-height: 1.2;">📥</div>
+            <div style="font-weight: 900; font-size: 18px; color: #002855; letter-spacing: 0.5px;">Collect &amp;</div>
+            <div style="font-weight: 700; font-size: 14px; color: #1A2A3A; line-height: 1.3;">Prepare Data</div>
+        </td>
+        <td style="padding: 0 6px; width: 40px; text-align: center; font-size: 38px; color: #00509D; font-weight: 700;">➜</td>
+        <!-- Step 3 -->
+        <td align="center" valign="middle" style="padding: 12px 6px; background: #DCE8F5; border-radius: 18px; border: 3px solid #B8CEE5; box-shadow: 0 4px 12px rgba(0,40,85,0.10);">
+            <div style="display: inline-block; background: #0077B5; color: #fff; border-radius: 50%; width: 44px; height: 44px; line-height: 44px; font-size: 20px; font-weight: 900; margin-bottom: 8px;">3</div>
+            <div style="font-size: 56px; line-height: 1.2;">📊</div>
+            <div style="font-weight: 900; font-size: 18px; color: #002855; letter-spacing: 0.5px;">Analyze &amp;</div>
+            <div style="font-weight: 700; font-size: 14px; color: #1A2A3A; line-height: 1.3;">Model</div>
+        </td>
+        <td style="padding: 0 6px; width: 40px; text-align: center; font-size: 38px; color: #00509D; font-weight: 700;">➜</td>
+        <!-- Step 4 -->
+        <td align="center" valign="middle" style="padding: 12px 6px; background: #D1E6F5; border-radius: 18px; border: 3px solid #A8C4DF; box-shadow: 0 4px 12px rgba(0,40,85,0.10);">
+            <div style="display: inline-block; background: #0F766E; color: #fff; border-radius: 50%; width: 44px; height: 44px; line-height: 44px; font-size: 20px; font-weight: 900; margin-bottom: 8px;">4</div>
+            <div style="font-size: 56px; line-height: 1.2;">📈</div>
+            <div style="font-weight: 900; font-size: 18px; color: #002855; letter-spacing: 0.5px;">Visualize &amp;</div>
+            <div style="font-weight: 700; font-size: 14px; color: #1A2A3A; line-height: 1.3;">Communicate</div>
+        </td>
+        <td style="padding: 0 6px; width: 40px; text-align: center; font-size: 38px; color: #00509D; font-weight: 700;">➜</td>
+        <!-- Step 5 -->
+        <td align="center" valign="middle" style="padding: 12px 6px; background: #B8D9F0; border-radius: 18px; border: 3px solid #8FB8D9; box-shadow: 0 4px 12px rgba(0,40,85,0.10);">
+            <div style="display: inline-block; background: #1E3A8A; color: #fff; border-radius: 50%; width: 44px; height: 44px; line-height: 44px; font-size: 20px; font-weight: 900; margin-bottom: 8px;">5</div>
+            <div style="font-size: 56px; line-height: 1.2;">🎯</div>
+            <div style="font-weight: 900; font-size: 18px; color: #002855; letter-spacing: 0.5px;">Recommend &amp;</div>
+            <div style="font-weight: 700; font-size: 14px; color: #1A2A3A; line-height: 1.3;">Drive Action</div>
+        </td>
+        <td style="padding: 0 6px; width: 40px; text-align: center; font-size: 38px; color: #00509D; font-weight: 700;">➜</td>
+        <!-- Step 6 -->
+        <td align="center" valign="middle" style="padding: 12px 6px; background: #9CC8E8; border-radius: 18px; border: 3px solid #7AADD4; box-shadow: 0 4px 12px rgba(0,40,85,0.10);">
+            <div style="display: inline-block; background: #111827; color: #fff; border-radius: 50%; width: 44px; height: 44px; line-height: 44px; font-size: 20px; font-weight: 900; margin-bottom: 8px;">6</div>
+            <div style="font-size: 56px; line-height: 1.2;">🔄</div>
+            <div style="font-weight: 900; font-size: 18px; color: #002855; letter-spacing: 0.5px;">Monitor &amp;</div>
+            <div style="font-weight: 700; font-size: 14px; color: #1A2A3A; line-height: 1.3;">Improve</div>
+        </td>
+    </tr>
 </table>
+
+<p align="center" style="margin: 0 0 28px 0; font-size: 16px; color: #4B5A6A; letter-spacing: 0.5px;">
+    <span style="background: #F0F7FF; padding: 8px 24px; border-radius: 30px; border: 2px solid #D6E4F0; font-weight: 700;">
+        📌 From discovery to execution — a disciplined, repeatable analytics lifecycle
+    </span>
+</p>
 
 ---
 
 ## 🏗️ Business Domains I Drive
 
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Finance</strong><br /><br />
-      <font color="#555555" size="2">Margins, variance, cash flow, control.</font>
-    </td>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Sales</strong><br /><br />
-      <font color="#555555" size="2">Revenue, customers, trends, performance.</font>
-    </td>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Supply Chain</strong><br /><br />
-      <font color="#555555" size="2">Purchasing, vendors, inventory, flow.</font>
-    </td>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Operations</strong><br /><br />
-      <font color="#555555" size="2">Efficiency, exceptions, process control.</font>
-    </td>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Leadership</strong><br /><br />
-      <font color="#555555" size="2">Executive reporting and decision support.</font>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Purchasing</strong><br /><br />
-      <font color="#555555" size="2">Buy signals, vendor review, PO logic.</font>
-    </td>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Inventory</strong><br /><br />
-      <font color="#555555" size="2">Stock risk and working capital impact.</font>
-    </td>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Forecasting</strong><br /><br />
-      <font color="#555555" size="2">Scenario visibility and planning discipline.</font>
-    </td>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Business Intelligence</strong><br /><br />
-      <font color="#555555" size="2">Clean reporting layers for decision makers.</font>
-    </td>
-    <td align="center" width="20%" valign="top" style="padding: 12px; border: 1px solid #e5e7eb;">
-      <strong>Automation</strong><br /><br />
-      <font color="#555555" size="2">Repeatable systems for speed and control.</font>
-    </td>
-  </tr>
+<p align="center" style="font-size: 32px; font-weight: 900; color: #002855; margin: 30px 0 12px 0; letter-spacing: 1px;">
+    🏢 Business Domains I Drive
+</p>
+
+<table width="100%" style="table-layout: fixed; border-collapse: collapse; background: transparent; margin: 12px 0 0 0;">
+    <tr>
+        <!-- 1. Finance -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #F0F7FF; border-radius: 18px; border: 3px solid #D6E4F0; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">💰</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Finance</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Margins, Variance, Cash flow, Control</div>
+        </td>
+        <!-- 2. Sales -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #E6F3FF; border-radius: 18px; border: 3px solid #C5DBF0; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">📈</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Sales</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Revenue, Customers, Trends, Performance</div>
+        </td>
+        <!-- 3. Supply Chain -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #DCE8F5; border-radius: 18px; border: 3px solid #B8CEE5; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">🚚</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Supply Chain</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Purchasing, Vendors, Inventory, Flow</div>
+        </td>
+        <!-- 4. Operations -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #D1E6F5; border-radius: 18px; border: 3px solid #A8C4DF; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">⚙️</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Operations</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Efficiency, Exceptions, Process Control</div>
+        </td>
+        <!-- 5. Leadership -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #B8D9F0; border-radius: 18px; border: 3px solid #8FB8D9; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">🧭</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Leadership</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Executive Reporting, Decision Support</div>
+        </td>
+    </tr>
+    <!-- second row -->
+    <tr>
+        <!-- 6. Purchasing -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #F0F7FF; border-radius: 18px; border: 3px solid #D6E4F0; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">🛒</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Purchasing</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Buy Signals, Vendor Review, PO Logic</div>
+        </td>
+        <!-- 7. Inventory -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #E6F3FF; border-radius: 18px; border: 3px solid #C5DBF0; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">📦</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Inventory</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Stock Risk, Working Capital Impact</div>
+        </td>
+        <!-- 8. Forecasting -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #DCE8F5; border-radius: 18px; border: 3px solid #B8CEE5; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">🔮</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Forecasting</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Scenario Visibility, Planning Discipline</div>
+        </td>
+        <!-- 9. Business Intel. -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #D1E6F5; border-radius: 18px; border: 3px solid #A8C4DF; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">🧠</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Business Intel.</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Clean Reporting Layers, Decision Makers</div>
+        </td>
+        <!-- 10. Automation -->
+        <td align="center" valign="top" style="padding: 18px 8px; background: #B8D9F0; border-radius: 18px; border: 3px solid #8FB8D9; box-shadow: 0 4px 12px rgba(0,40,85,0.08); width: 20%;">
+            <div style="font-size: 56px; line-height: 1.2;">🤖</div>
+            <div style="font-weight: 900; font-size: 20px; color: #002855; margin-top: 8px; letter-spacing: 0.5px;">Automation</div>
+            <div style="font-weight: 600; font-size: 13px; color: #1A2A3A; line-height: 1.4; margin-top: 4px;">Repeatable Systems, Speed &amp; Control</div>
+        </td>
+    </tr>
 </table>
 
-<br />
+<p align="center" style="margin: 16px 0 0 0; font-size: 16px; color: #4B5A6A; letter-spacing: 0.5px;">
+    <span style="background: #F0F7FF; padding: 8px 24px; border-radius: 30px; border: 2px solid #D6E4F0; font-weight: 700;">
+        🧩 Every domain gets the same focus: clarity, control, and actionable insight
+    </span>
+</p>
 
 ---
 
