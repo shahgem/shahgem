@@ -10,14 +10,14 @@
 <!-- Animated Name & Professional Title -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=3000&pause=900&color=002855&center=true&vCenter=true&width=950&height=60&lines=Shahzad+Ahmed" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=002855&center=true&vCenter=true&width=950&height=50&lines=Shahzad+Ahmed" 
     alt="Animated Shahzad Ahmed name ticker"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00509D&center=true&vCenter=true&width=950&height=45&lines=Finance+%26+Business+Analytics+Professional;Finance+%7C+Analytics+%7C+Business+Intelligence;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Turning+Financial+Data+into+Business+Decisions" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=002855&center=true&vCenter=true&width=950&height=50&lines=Finance+%26+Business+Analytics+Professional;Finance+%7C+Analytics+%7C+Business+Intelligence;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Turning+Financial+Data+into+Business+Decisions" 
     alt="Animated finance and business analytics professional title"
   />
 </p>
@@ -29,7 +29,7 @@
 
 <!-- Animated Role Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=00509D&center=true&vCenter=true&width=950&lines=Finance+%26+Business+Analytics+Professional;Financial+Analysis+%7C+Business+Intelligence+%7C+Automation;SQL+%7C+Python+%7C+R+%7C+Power+BI+%7C+Excel;Forecasting+%7C+Predictive+Analytics+%7C+Decision+Support;Sales+%7C+Purchase+%7C+Inventory+%7C+Margin+Analytics;KPI+Dashboards+%7C+Management+Reporting+%7C+Executive+Insights;Turning+Numbers+into+Strategy;Turning+Insight+into+Action;Turning+Data+into+Business+Value" alt="Animated finance and analytics role titles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=002855&center=true&vCenter=true&width=950&height=50&lines=Finance+%26+Business+Analytics+Professional;Financial+Analysis+%7C+Business+Intelligence+%7C+Automation;SQL+%7C+Python+%7C+R+%7C+Power+BI+%7C+Excel;Forecasting+%7C+Predictive+Analytics+%7C+Decision+Support;Sales+%7C+Purchase+%7C+Inventory+%7C+Margin+Analytics;KPI+Dashboards+%7C+Management+Reporting+%7C+Executive+Insights;Turning+Numbers+into+Strategy;Turning+Insight+into+Action;Turning+Data+into+Business+Value" alt="Animated finance and analytics role titles"/>
 </p>
 
 <h2 align="center" style="color:#002855;">Finance | Business Analytics | Business Intelligence | Automation</h2>
@@ -55,8 +55,7 @@
 
 ## 🧭 Executive Value Proposition
 
-
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <b>Who I Am</b>
@@ -83,10 +82,10 @@
 ## Key Highlights
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2400&pause=700&color=00509D&center=true&vCenter=true&width=950&lines=15%2B+Years+of+Finance+%26+Business+Experience;Finance+%2B+Data+%2B+Technology;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Dashboards+Built+for+Business+Impact;Insight+that+Leads+to+Action" alt="Animated key highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=002855&center=true&vCenter=true&width=950&height=50&lines=15%2B+Years+of+Finance+%26+Business+Experience;Finance+%2B+Data+%2B+Technology;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Dashboards+Built+for+Business+Impact;Insight+that+Leads+to+Action" alt="Animated key highlights" />
 </p>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/calendar.png" width="55" alt="Experience icon" />
@@ -131,11 +130,9 @@
 
 ---
 
-
-
 ## 🛠️ Core Expertise
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top" bgcolor="#F8FBFF">
 
@@ -190,7 +187,6 @@
 </tr>
 </table>
 
-
 ## 💼 Business Impact
 
 <p align="center">
@@ -207,6 +203,7 @@
   </thead>
   <tbody>
     <tr>
+      <!-- Finance & Strategy -->
       <td width="33.3%" align="center" valign="top" bgcolor="#F8FBFF">
         <br>
         <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60" />
@@ -218,6 +215,7 @@
           <b>• Executive Reporting:</b> Boardroom-ready summaries focused on decisions.
         </p>
       </td>
+      <!-- Operational Excellence -->
       <td width="33.3%" align="center" valign="top" bgcolor="#F0FDF4">
         <br>
         <img src="https://img.icons8.com/fluency/96/process.png" width="60" />
@@ -229,6 +227,7 @@
           <b>• Decision Automation:</b> Repeatable workflows that reduce manual review.
         </p>
       </td>
+      <!-- Growth & Profitability -->
       <td width="33.3%" align="center" valign="top" bgcolor="#FFFBEB">
         <br>
         <img src="https://img.icons8.com/fluency/96/target.png" width="60" />
@@ -260,7 +259,7 @@
 
 ## 🛠️ Tools & Technologies
 
-<table>
+<table width="100%">
   <tr>
     <td width="25%" valign="top">
       <b>Data</b>
@@ -305,7 +304,7 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -404,7 +403,7 @@
   <img src="https://img.shields.io/badge/6_Monitor%20%26%20Improve-111827?style=for-the-badge" alt="Monitor & Improve"/>
 </p>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" align="center">
       <b>Business Discovery</b><br>
@@ -425,7 +424,7 @@
 
 ## 🏗️ Business Domains I Drive
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="20%"><b>Finance</b><br /><sub>Margins, variance, cash flow, control.</sub></td>
     <td align="center" width="20%"><b>Sales</b><br /><sub>Revenue, customers, trends, performance.</sub></td>
