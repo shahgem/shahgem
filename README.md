@@ -428,7 +428,7 @@
 </table>
 
 <p align="center">
-    <b>📌 From discovery to execution — a disciplined, repeatable analytics lifecycle</b>
+    <b>📌 From discovery to execution - a disciplined, repeatable analytics lifecycle</b>
 </p>
 
 <br>
