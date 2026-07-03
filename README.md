@@ -190,30 +190,69 @@
 </tr>
 </table>
 
----
 
 ## 💼 Business Impact
 
-<table>
-  <tr>
-    <td width="25%" valign="top"><b>Executive Dashboards</b><br /><sub>Leadership views that connect performance, risk, and action in one place.</sub></td>
-    <td width="25%" valign="top"><b>Cash Flow Intelligence</b><br /><sub>Visibility into liquidity pressure, payment timing, and working capital decisions.</sub></td>
-    <td width="25%" valign="top"><b>Inventory Optimization</b><br /><sub>Signals for stock risk, purchase timing, vendor exposure, and capital discipline.</sub></td>
-    <td width="25%" valign="top"><b>Forecasting</b><br /><sub>Forward-looking models for planning, volatility, and executive scenario review.</sub></td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>Decision Automation</b><br /><sub>Repeatable workflows that reduce manual review and improve control.</sub></td>
-    <td width="25%" valign="top"><b>Purchasing Intelligence</b><br /><sub>Recommendation logic for what to buy, when to buy, and why.</sub></td>
-    <td width="25%" valign="top"><b>Sales Intelligence</b><br /><sub>Revenue, customer, margin, and trend analysis for commercial decisions.</sub></td>
-    <td width="25%" valign="top"><b>Margin Analysis</b><br /><sub>Profitability views that connect pricing, cost, volume, and operational drivers.</sub></td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><b>Financial Reporting</b><br /><sub>Structured reporting for performance, variance, profitability, and control.</sub></td>
-    <td width="25%" valign="top"><b>Executive Reporting</b><br /><sub>Boardroom-ready summaries focused on decisions, not data noise.</sub></td>
-    <td width="25%" valign="top"><b>Business Intelligence</b><br /><sub>Unified reporting layers for finance, operations, sales, and supply chain.</sub></td>
-    <td width="25%" valign="top"><b>Automation</b><br /><sub>Automated reporting flows that improve speed, consistency, and reliability.</sub></td>
-  </tr>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=002855&center=true&vCenter=true&width=950&lines=STRATEGIC+VALUE+%7C+OPERATIONAL+EXCELLENCE+%7C+PROFITABLE+GROWTH" alt="Business Impact Header" />
+</p>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="3" bgcolor="#002855" align="center">
+        <font color="#ffffff" size="5">🚀 BUSINESS IMPACT ECOSYSTEM</font>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="33.3%" align="center" valign="top" bgcolor="#F8FBFF">
+        <br>
+        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60" />
+        <br>
+        <font color="#00509D"><h3>Finance & Strategy</h3></font>
+        <p align="left">
+          <b>• Executive Dashboards:</b> High-level views connecting performance, risk, and action.<br><br>
+          <b>• Forecasting Models:</b> Forward-looking scenarios for planning and volatility.<br><br>
+          <b>• Executive Reporting:</b> Boardroom-ready summaries focused on decisions.
+        </p>
+      </td>
+      <td width="33.3%" align="center" valign="top" bgcolor="#F0FDF4">
+        <br>
+        <img src="https://img.icons8.com/fluency/96/process.png" width="60" />
+        <br>
+        <font color="#059669"><h3>Operational Excellence</h3></font>
+        <p align="left">
+          <b>• Inventory Optimization:</b> Signals for stock risk, purchase timing, and vendor exposure.<br><br>
+          <b>• Purchasing Intelligence:</b> Logic-driven recommendations for procurement.<br><br>
+          <b>• Decision Automation:</b> Repeatable workflows that reduce manual review.
+        </p>
+      </td>
+      <td width="33.3%" align="center" valign="top" bgcolor="#FFFBEB">
+        <br>
+        <img src="https://img.icons8.com/fluency/96/target.png" width="60" />
+        <br>
+        <font color="#D97706"><h3>Growth & Profitability</h3></font>
+        <p align="left">
+          <b>• Margin Analysis:</b> Profitability views connecting pricing, cost, and volume.<br><br>
+          <b>• Sales Intelligence:</b> Revenue, customer, and trend analysis for commercial growth.<br><br>
+          <b>• Cash Flow Intelligence:</b> Visibility into liquidity and working capital.
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Strategic%20Alignment-002855?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Driven-059669?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROI%20Focused-D97706?style=for-the-badge&logo=money&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>"Turning complex financial data into a competitive advantage through actionable executive insights."</i>
+</p>
 
 <br />
 
