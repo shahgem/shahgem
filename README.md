@@ -50,30 +50,47 @@
 
 ## 🧭 Executive Value Proposition
 
-<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
+<table>
   <tr>
-    <td width="33.3%" valign="top" style="padding: 15px;">
-      <h3>Who I Am</h3>
-      <p align="left">
-        Finance and business analytics professional with 15+ years of experience across reporting, forecasting, performance control, and leadership decision support.
+    <td width="33%" valign="top">
+      <h3>🔹 Who I Am</h3>
+      <img src="https://img.shields.io/badge/15%2B_Years-Finance_%26_Data-00C8FF?style=for-the-badge&labelColor=061826" alt="15+ Years" />
+      <br /><br />
+      <p>Finance and business analytics professional with <b>15+ years</b> of experience across reporting, forecasting, performance control, and leadership decision support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SAP%20B1-Expert-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=061826" />
+        <img src="https://img.shields.io/badge/SAP%20ECC%206.0-FI%20%7C%20MM-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=061826" />
+        <img src="https://img.shields.io/badge/SQL%20Server-Advanced-00C8FF?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=061826" />
       </p>
     </td>
-    <td width="33.3%" valign="top" style="padding: 15px;">
-      <h3>What I Build</h3>
-      <p align="left">
-        Executive dashboards, purchasing intelligence tools, forecasting models, reporting automation, and finance-aware decision systems.
+    <td width="33%" valign="top">
+      <h3>🔸 What I Build</h3>
+      <img src="https://img.shields.io/badge/Systems-That_Drive_Decisions-F5B700?style=for-the-badge&labelColor=061826" alt="Systems" />
+      <br /><br />
+      <p>Executive dashboards, purchasing intelligence tools, forecasting models, reporting automation, and finance-aware decision systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F5B700?style=flat-square&logo=powerbi&logoColor=white&labelColor=061826" />
+        <img src="https://img.shields.io/badge/Python-Automation-F5B700?style=flat-square&logo=python&logoColor=white&labelColor=061826" />
+        <img src="https://img.shields.io/badge/Power%20Automate-Workflows-F5B700?style=flat-square&logo=powerautomate&logoColor=white&labelColor=061826" />
       </p>
     </td>
-    <td width="33.3%" valign="top" style="padding: 15px;">
-      <h3>Why It Matters</h3>
-      <p align="left">
-        Leaders need clarity before action. I design systems that expose risk, explain performance, and turn analysis into confident decisions.
+    <td width="33%" valign="top">
+      <h3>⚡ Why It Matters</h3>
+      <img src="https://img.shields.io/badge/Data_%E2%86%92_Insight_%E2%86%92_Decision_%E2%86%92_Action-0F766E?style=for-the-badge&labelColor=061826" alt="Philosophy" />
+      <br /><br />
+      <p>Leaders need clarity before action. I design systems that <b>expose risk</b>, <b>explain performance</b>, and turn analysis into <b>confident decisions</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Forecasting-Strategic-0F766E?style=flat-square&labelColor=061826" />
+        <img src="https://img.shields.io/badge/Variance%20Analysis-Diagnostic-0F766E?style=flat-square&labelColor=061826" />
+        <img src="https://img.shields.io/badge/Cash%20Flow-Predictive-0F766E?style=flat-square&labelColor=061826" />
       </p>
     </td>
   </tr>
 </table>
 
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%80%9C_Bridging_the_gap_between_raw_data_and_executive_confidence_%E2%80%9D-061826?style=for-the-badge&labelColor=061826" alt="Tagline" />
+</p>
 
 ---
 
