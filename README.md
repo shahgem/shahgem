@@ -247,48 +247,55 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## ⚡ Tools & Technologies
 
-<table width="100%">
+<table>
   <tr>
-    <td width="25%" valign="top">
-      <b>Data</b>
-      <br /><br />
-      <img src="https://img.shields.io/badge/SQL-061826?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Python-0057B8?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/R-0F766E?style=flat-square&logo=r&logoColor=white" alt="R" />
-      <img src="https://img.shields.io/badge/Pandas-061826?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-0057B8?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br /><sub><b>Python</b></sub>
     </td>
-    <td width="25%" valign="top">
-      <b>Visualization</b>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Power%20BI-F5B700?style=flat-square&logo=powerbi&logoColor=061826" alt="Power BI" />
-      <img src="https://img.shields.io/badge/Excel-0F766E?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-      <img src="https://img.shields.io/badge/Tableau-0057B8?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-      <img src="https://img.shields.io/badge/Dashboards-061826?style=flat-square" alt="Dashboards" />
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="SQL" />
+      <br /><sub><b>SQL Server</b></sub>
     </td>
-    <td width="25%" valign="top">
-      <b>Automation</b>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Power%20Automate-0057B8?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
-      <img src="https://img.shields.io/badge/Python%20Workflows-061826?style=flat-square&logo=python&logoColor=white" alt="Python workflows" />
-      <img src="https://img.shields.io/badge/SAP%20Workflows-0F766E?style=flat-square" alt="SAP workflows" />
-      <img src="https://img.shields.io/badge/Reporting%20Pipelines-F5B700?style=flat-square&logoColor=061826" alt="Reporting pipelines" />
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+      <br /><sub><b>R</b></sub>
     </td>
-    <td width="25%" valign="top">
-      <b>Finance Intelligence</b>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Forecasting-0057B8?style=flat-square" alt="Forecasting" />
-      <img src="https://img.shields.io/badge/Budgeting-061826?style=flat-square" alt="Budgeting" />
-      <img src="https://img.shields.io/badge/Variance%20Analysis-0F766E?style=flat-square" alt="Variance analysis" />
-      <img src="https://img.shields.io/badge/Inventory-F5B700?style=flat-square&logoColor=061826" alt="Inventory" />
-      <img src="https://img.shields.io/badge/Cash%20Flow-0057B8?style=flat-square" alt="Cash flow" />
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/SAP%20B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="28" alt="SAP B1" />
+      <br /><sub><b>SAP Business One</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/SAP%20ECC-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="28" alt="SAP ECC" />
+      <br /><sub><b>SAP ECC 6.0</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" height="28" alt="Power BI" />
+      <br /><sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br /><sub><b>GitHub</b></sub>
     </td>
   </tr>
 </table>
 
+<details>
+<summary><b>📂 Full Stack Breakdown</b></summary>
 <br />
+
+| Domain | Technologies |
+|:--|:--|
+| **Data & Query** | SQL Server · SAP B1 Query Manager · Python · Pandas · NumPy · R |
+| **ERP Systems** | SAP Business One · SAP ECC 6.0 (FI · MM) |
+| **Visualization** | Power BI · Excel · Tableau · Custom HTML Dashboards |
+| **Automation** | Power Automate Desktop · Python Workflows · SAP Workflows · Reporting Pipelines |
+| **Finance Intelligence** | Forecasting · Budgeting · Variance Analysis · Inventory Analytics · Cash Flow |
+
+</details>
+
 
 ---
 
