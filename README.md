@@ -316,6 +316,53 @@
 
 ---
 
+## 💠 TrueSum | Business Intelligence & Financial Automation Solutions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TrueSum-Finance_%7C_Analytics_%7C_Automation-002855?style=for-the-badge&labelColor=061826" alt="TrueSum business intelligence solutions" />
+</p>
+
+<p align="center">
+  <strong>Purpose-built intelligence for finance, sales, inventory, and operational teams.</strong><br/>
+  TrueSum transforms complex business data into clear insights, actionable exceptions, and informed decisions. Explore the solutions below and open their product brochures for a closer look.
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <h3>🔗 TrueSum Reconcile</h3>
+  <p><strong>Reconciliation &amp; Exception Management</strong></p>
+  <p>Bring transactional records together, compare quantities and values, identify mismatches, and streamline the reconciliation review process.</p>
+  <a href="./assets/TrueSum_Reconcile_Brochure.pdf"><img src="https://img.shields.io/badge/View_Product_Brochure-PDF-00509D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View TrueSum Reconcile brochure"/></a>
+</td>
+<td width="50%" valign="top">
+  <h3>📦 TrueSum Inventory Age Intelligence</h3>
+  <p><strong>Inventory Aging &amp; Working Capital Visibility</strong></p>
+  <p>Analyze stock aging, movement, sales velocity, and inventory exposure to support healthier stock positions and more informed purchasing decisions.</p>
+  <a href="./assets/TrueSum_Inventory_Age_Intelligence_Brochure.pdf"><img src="https://img.shields.io/badge/View_Product_Brochure-PDF-00509D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Inventory Age Intelligence brochure"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3>📊 TrueSum Sales Intelligence Suite</h3>
+  <p><strong>Sales Performance &amp; Profitability Analytics</strong></p>
+  <p>Explore sales trends, customers, products, margins, and key performance indicators in a management-focused analytics experience.</p>
+  <a href="./assets/TrueSum-Sales%20Intelligene%20Suite.pdf"><img src="https://img.shields.io/badge/View_Product_Brochure-PDF-00509D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Sales Intelligence Suite brochure"/></a>
+</td>
+<td width="50%" valign="top">
+  <h3>🎯 TrueSum Variance Command Center</h3>
+  <p><strong>Financial Variance &amp; Control Intelligence</strong></p>
+  <p>Highlight performance deviations, investigate material variances, and give finance teams a clearer starting point for management review and follow-up.</p>
+  <a href="./assets/TrueSum_Variance_Command_Center_Brochure1.pdf"><img src="https://img.shields.io/badge/View_Product_Brochure-PDF-00509D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Variance Command Center brochure"/></a>
+</td>
+</tr>
+</table>
+
+<p align="center"><strong>Interested in a product walkthrough, commercial information, or a tailored solution?</strong><br/>
+<a href="mailto:shahzada@gemsen.com">Contact for Product Demos &amp; Enquiries</a></p>
+
+---
+
 ## 🚀 Featured Projects
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
