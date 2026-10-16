@@ -316,50 +316,91 @@
 
 ---
 
-## 💠 TrueSum | Business Intelligence & Financial Automation Solutions
+## 💠 TrueSum | Finance Intelligence & Business Automation Solutions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TrueSum-Finance_%7C_Analytics_%7C_Automation-002855?style=for-the-badge&labelColor=061826" alt="TrueSum business intelligence solutions" />
+  <img src="https://img.shields.io/badge/TrueSum-Business_Intelligence_Solutions-002855?style=for-the-badge&labelColor=061826" alt="TrueSum Business Intelligence Solutions" />
 </p>
 
 <p align="center">
-  <strong>Purpose-built intelligence for finance, sales, inventory, and operational teams.</strong><br/>
-  TrueSum transforms complex business data into clear insights, actionable exceptions, and informed decisions. Explore the solutions below and open their product brochures for a closer look.
+  <strong>Built for the people behind the numbers.</strong><br/>
+  Four purpose-built solutions that connect finance, sales, and inventory data to actionable insight, better controls, and faster decisions.
+</p>
+
+<p align="center">
+  <a href="#truesum-bank-reconciliation">Bank Reconciliation</a> &nbsp;·&nbsp;
+  <a href="#truesum-inventory-age-intelligence">Inventory Intelligence</a> &nbsp;·&nbsp;
+  <a href="#truesum-sales-intelligence-suite">Sales Intelligence</a> &nbsp;·&nbsp;
+  <a href="#truesum-variance-command-center">Variance Analysis</a>
 </p>
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3>🔗 TrueSum Reconcile</h3>
-  <p><strong>Reconciliation &amp; Exception Management</strong></p>
-  <p>Bring transactional records together, compare quantities and values, identify mismatches, and streamline the reconciliation review process.</p>
-  <a href="./assets/TrueSum_Reconcile_Brochure.pdf"><img src="https://img.shields.io/badge/View_Product_Brochure-PDF-00509D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View TrueSum Reconcile brochure"/></a>
+  <tr>
+<td width="50%" valign="top" align="left">
+  <h3>TrueSum Bank Reconciliation</h3>
+  <p><strong>Bank Reconciliation &amp; Exception Management</strong></p>
+  <a href="./assets/TrueSum_Reconcile_Brochure.pdf">
+    <img src="./assets/truesum-bank-reconcile-preview.png" width="100%" alt="TrueSum Bank Reconciliation product preview" />
+  </a>
+  <p>A structured bank reconciliation workpaper suite for SAP Business One finance teams.</p>
+  <ul>
+    <li>Consolidate bank accounts and reconciliation workpapers</li>
+    <li>Support statement proof, transaction matching, and exception review</li>
+    <li>Improve month-end traceability and follow-up</li>
+  </ul>
+  <p><a href="./assets/TrueSum_Reconcile_Brochure.pdf"><img src="https://img.shields.io/badge/Explore_Product_Brochure-View_PDF-00509D?style=for-the-badge&labelColor=061826" alt="Open TrueSum Bank Reconciliation brochure" /></a></p>
 </td>
-<td width="50%" valign="top">
-  <h3>📦 TrueSum Inventory Age Intelligence</h3>
+<td width="50%" valign="top" align="left">
+  <h3>TrueSum Inventory Age Intelligence</h3>
   <p><strong>Inventory Aging &amp; Working Capital Visibility</strong></p>
-  <p>Analyze stock aging, movement, sales velocity, and inventory exposure to support healthier stock positions and more informed purchasing decisions.</p>
-  <a href="./assets/TrueSum_Inventory_Age_Intelligence_Brochure.pdf"><img src="https://img.shields.io/badge/View_Product_Brochure-PDF-00509D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Inventory Age Intelligence brochure"/></a>
+  <a href="./assets/TrueSum_Inventory_Age_Intelligence_Brochure.pdf">
+    <img src="./assets/truesum-inventory-age-preview.png" width="100%" alt="TrueSum Inventory Age Intelligence product preview" />
+  </a>
+  <p>Understand how long inventory has been sitting and where stock is tying up cash.</p>
+  <ul>
+    <li>Explore stock aging and inventory exposure</li>
+    <li>Compare stock positions with movement and sales velocity</li>
+    <li>Prioritize slow-moving inventory and purchasing decisions</li>
+  </ul>
+  <p><a href="./assets/TrueSum_Inventory_Age_Intelligence_Brochure.pdf"><img src="https://img.shields.io/badge/Explore_Product_Brochure-View_PDF-00509D?style=for-the-badge&labelColor=061826" alt="Open TrueSum Inventory Age Intelligence brochure" /></a></p>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>📊 TrueSum Sales Intelligence Suite</h3>
+  </tr>
+  <tr>
+<td width="50%" valign="top" align="left">
+  <h3>TrueSum Sales Intelligence Suite</h3>
   <p><strong>Sales Performance &amp; Profitability Analytics</strong></p>
-  <p>Explore sales trends, customers, products, margins, and key performance indicators in a management-focused analytics experience.</p>
-  <a href="./assets/TrueSum-Sales%20Intelligene%20Suite.pdf"><img src="https://img.shields.io/badge/View_Product_Brochure-PDF-00509D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Sales Intelligence Suite brochure"/></a>
+  <a href="./assets/TrueSum-Sales%20Intelligene%20Suite.pdf">
+    <img src="./assets/truesum-sales-intelligence-preview.png" width="100%" alt="TrueSum Sales Intelligence Suite product preview" />
+  </a>
+  <p>Interactive management intelligence that connects high-level KPIs to the details behind them.</p>
+  <ul>
+    <li>Review sales trends, customer performance, and growth drivers</li>
+    <li>Drill into KPI details and compare periods</li>
+    <li>Turn sales and margin analysis into clearer commercial decisions</li>
+  </ul>
+  <p><a href="./assets/TrueSum-Sales%20Intelligene%20Suite.pdf"><img src="https://img.shields.io/badge/Explore_Product_Brochure-View_PDF-00509D?style=for-the-badge&labelColor=061826" alt="Open TrueSum Sales Intelligence Suite brochure" /></a></p>
 </td>
-<td width="50%" valign="top">
-  <h3>🎯 TrueSum Variance Command Center</h3>
-  <p><strong>Financial Variance &amp; Control Intelligence</strong></p>
-  <p>Highlight performance deviations, investigate material variances, and give finance teams a clearer starting point for management review and follow-up.</p>
-  <a href="./assets/TrueSum_Variance_Command_Center_Brochure1.pdf"><img src="https://img.shields.io/badge/View_Product_Brochure-PDF-00509D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Variance Command Center brochure"/></a>
+<td width="50%" valign="top" align="left">
+  <h3>TrueSum Variance Command Center</h3>
+  <p><strong>P&amp;L Variance &amp; Financial Control Intelligence</strong></p>
+  <a href="./assets/TrueSum_Variance_Command_Center_Brochure1.pdf">
+    <img src="./assets/truesum-variance-command-center-preview.png" width="100%" alt="TrueSum Variance Command Center product preview" />
+  </a>
+  <p>Move beyond P&amp;L totals to investigate what changed, when it changed, and why it matters.</p>
+  <ul>
+    <li>Examine financial performance at journal-line level</li>
+    <li>Identify and investigate material variances</li>
+    <li>Focus management review on meaningful exceptions</li>
+  </ul>
+  <p><a href="./assets/TrueSum_Variance_Command_Center_Brochure1.pdf"><img src="https://img.shields.io/badge/Explore_Product_Brochure-View_PDF-00509D?style=for-the-badge&labelColor=061826" alt="Open TrueSum Variance Command Center brochure" /></a></p>
 </td>
-</tr>
+  </tr>
 </table>
 
-<p align="center"><strong>Interested in a product walkthrough, commercial information, or a tailored solution?</strong><br/>
-<a href="mailto:shahzada@gemsen.com">Contact for Product Demos &amp; Enquiries</a></p>
+<p align="center">
+  <strong>See how TrueSum can support your reporting and decision-making workflows.</strong><br/>
+  <a href="mailto:shahzada@gemsen.com?subject=TrueSum%20Product%20Demo%20Inquiry">Request a Product Demo or Discuss Your Requirements</a>
+</p>
 
 ---
 
